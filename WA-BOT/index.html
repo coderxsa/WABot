@@ -1,3 +1,275 @@
-<script>
-document.write(unescape('%3C%21DOCTYPE%20html%3E%0A%3Chtml%20style%3D%22background-color%3A%20%23eaeaea%3B%20overflow-y%3A%20auto%3B%22%3E%0A%3Chead%3E%0A%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1.0%22%3E%0A%20%20%09%09%3Cmeta%20charset%3D%22UTF-8%22%3E%0A%20%20%09%09%3Cmeta%20name%3D%22author%22%20content%3D%22Cygnus-Bot%22%3E%0A%09%09%3Ctitle%3ECygnus-Bot%3C/title%3E%0A%09%09%3Clink%20rel%3D%22icon%22%20href%3D%22cdn/images/logo2.png%22%3E%0A%09%09%3Clink%20rel%3D%22stylesheet%22%20href%3D%22cdn/css/bulma.css%22%3E%0A%09%09%3Clink%20rel%3D%22stylesheet%22%20href%3D%22cdn/css/font-awesome.min.css%22%3E%0A%09%09%3Clink%20rel%3D%22stylesheet%22%20href%3D%22cdn/css/main.css%22%3E%0A%20%20%20%20%20%20%20%20%3Cmeta%20property%3D%22og%3Aurl%22%20content%3D%22index.html%22%3E%0A%20%20%20%20%20%20%20%20%3Cmeta%20property%3D%22og%3Atype%22%20content%3D%22website%22%3E%0A%20%20%20%20%20%20%20%20%3Cmeta%20property%3D%22og%3Atitle%22%20content%3D%22A%20simple%20and%20modern%20whatsaap-bot%20bot.%22%3E%0A%20%20%20%20%20%20%20%20%3Cmeta%20property%3D%22og%3Adescription%22%20content%3D%22Cygnus-Bot%20provides%20fun%20and%20searching%20features%20to%20any%20whatsaap-bot%20server%2C%20it%20also%20comes%20with%20a%20large%20selection%20of%20moderation%20tools.%20Cygnus-Bot%20is%20built%20on%20Node.js%20Bailys.%22%3E%0A%20%20%20%20%20%20%20%20%3Cmeta%20property%3D%22og%3Aimage%22%20content%3D%22cdn/images/lucy-og.png%22%3E%0A%20%20%20%20%20%20%20%20%3Cmeta%20property%3D%22og%3Aimage%3Asecure_url%22%20content%3D%22cdn/images/lucy-og.png%22%3E%0A%09%09%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D0.8%22%3E%0A%09%09%3Cstyle%3E%0A%09%09%09.status%20td%20%7B%0A%09%09%09%09text-align%3A%20center%20%21important%3B%0A%09%09%09%09padding%3A%202px%3B%0A%09%09%09%7D%0A%09%09%09.status%20thead%20%7B%0A%09%09%09%09border-bottom%3A%201px%20solid%20%23ddd%3B%0A%09%09%09%7D%0A%09%09%09.status%20th%3Afirst-child%2C%20.status%20td%3Afirst-child%20%7B%20%0A%20%20%20%20%09%09%09font-weight%3A%20bolder%3B%0A%09%09%09%7D%0A%09%09%09.premium%20td%20%7B%0A%09%09%09%09text-align%3A%20center%20%21important%3B%0A%09%09%09%09padding%3A%2015px%3B%0A%09%09%09%7D%0A%09%09%09.premium%20th%2C%20.premium%20td%20%7B%0A%09%09%09%09border-bottom%3A%201px%20solid%20%23ddd%3B%0A%09%09%09%7D%0A%09%09%09.premium%20th%3Afirst-child%2C%20.premium%20td%3Afirst-child%20%7B%20%0A%20%20%20%20%09%09%09font-weight%3A%20bolder%3B%0A%09%09%09%7D%0A%09%09%09%23particle-js%20%7B%0A%09%09%09%09position%3A%20absolute%3B%0A%09%09%09%09width%3A%20100%25%3B%0A%09%09%09%09height%3A%20100%25%3B%0A%09%09%09%09background-repeat%3A%20no-repeat%3B%0A%09%09%09%09background-size%3A%20cover%3B%0A%09%09%09%09background-position%3A%2050%25%2050%25%3B%0A%09%09%09%09opacity%3A%200.48%3B%0A%09%09%09%7D%0A%09%09%09canvas%20%7B%0A%09%09%09%09position%3A%20fixed%3B%0A%09%09%09%7D%0A%09%09%09@media%20screen%20and%20%28max-width%3A%20770px%29%20%7B%0A%09%09%09%09.hero-body%20%7B%0A%09%09%09%09%09padding%3A%200px%20%21important%3B%0A%09%09%09%09%09padding-top%3A%203em%20%21important%3B%0A%09%09%09%09%7D%0A%09%09%09%7D%0A%09%09%09.circle%3Abefore%20%7B%0A%09%09%09%09content%3A%20%27%20%5C25CF%27%3B%0A%09%09%09%09font-size%3A%2016px%3B%0A%09%09%09%7D%0A%0A%20%20%3C/style%3E%0A%09%09%3C/style%3E%0A%09%3C/head%3E%0A%09%3Cbody%3E%0A%09%09%3Csection%20class%3D%22hero%20is-info%20is-fullheight%22%20style%3D%22background-image%3A%20url%28%27cdn/images/1.png%27%29%3B%20background-size%3A%20cover%3B%20background-color%3A%20%23000000%3B%22%3E%0A%09%09%09%3C%21--%20Hero%20header%3A%20will%20stick%20at%20the%20top%20--%3E%0A%09%09%09%3Cdiv%20class%3D%22hero-head%22%3E%0A%09%09%09%09%3Cheader%20class%3D%22nav%22%3E%0A%09%09%09%09%09%3Cdiv%20class%3D%22container%22%3E%0A%09%09%09%09%09%09%3Ca%20class%3D%22nav-item%22%20href%3D%27index.html%27%3E%0A%09%09%09%09%09%09%09%3Cimg%20src%3D%22cdn/images/logo.png%22%20class%3D%22hideme%22%20style%3D%22width%3A%206em%3B%22%3E%0A%09%09%09%09%09%09%3C/a%3E%0A%09%09%09%09%09%09%3Cdiv%20class%3D%22nav-right%22%3E%0A%09%09%09%09%09%09%09%3Ca%20href%3D%22index.html%22%20class%3D%22nav-item%20is-active%20%22%3E%0A%09%09%09%09%09%09%09%09Home%0A%09%09%09%09%09%09%09%3C/a%3E%0A%09%09%09%09%09%09%09%3Ca%20href%3D%22commands.html%22%20class%3D%22nav-item%20%22%3E%0A%09%09%09%09%09%09%09%09Commands%0A%09%09%09%09%09%09%09%3C/a%3E%0A%09%09%09%09%09%09%09%3Ca%20href%3D%22https%3A//wa.me/9999%22%20class%3D%22nav-item%20%22%20style%3D%22color%3A%20%23ffffff%3B%22%3E%0A%09%09%09%09%09%09%09%09%3Cspan%3EInvite%3C/span%3E%0A%09%09%09%09%09%09%09%3C/a%3E%09%09%09%09%09%09%3C/div%3E%0A%09%09%09%09%09%3C/div%3E%0A%09%09%09%09%3C/header%3E%0A%09%09%09%3C/div%3E%0A%09%0A%09%09%09%3C%21--%20Hero%20content%3A%20will%20be%20in%20the%20middle%20--%3E%0A%09%09%09%3Cdiv%20id%3D%22particles-js%22%3E%3C/div%3E%0A%09%09%09%3Cdiv%20class%3D%22hero-body%22%3E%0A%09%09%09%09%3Cdiv%20class%3D%22container%20has-text-centered%22%3E%0A%09%09%09%09%09%3Ch1%20class%3D%22title%22%20style%3D%22color%3A%20black%3B%22%3E%0A%09%09%09%09%09%09%3Cimg%20src%3D%22cdn/images/logo.png%22%3E%0A%09%09%09%09%09%3C/h1%3E%0A%09%09%09%09%09%3Cp%3EBOT%20STATUS%3A%3C/p%3E%0A%09%09%09%09%09%3Cp%20class%3D%22fancy-text%22%20id%3D%22status%22%3ENot%20Active%3C/p%3E%0A%09%09%09%09%09%3Cp%20style%3D%22margin-top%3A%201em%3B%20color%3A%20rgb%28255%2C%200%2C%20221%29%3B%20font-weight%3A%20bold%3B%22%3EIf%20You%20Have%20Spare%20PhoneNumbers%20Please%20Contact%20Us%3C/p%3E%0A%09%09%09%09%0A%09%09%09%09%09%3Cscript%20src%3D%22https%3A//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js%22%3E%3C/script%3E%0A%09%09%09%09%09%3Cscript%3E%0A%09%09%09%09%09%09//%20Load%20configuration%20from%20JSON%20file%0A%09%09%09%09%09%09%24.getJSON%28%22config.json%22%2C%20function%28data%29%20%7B%0A%09%09%09%09%09%09%09//%20Get%20status%20text%20and%20color%20from%20configuration%0A%09%09%09%09%09%09%09var%20statusText%20%3D%20data.statusText%3B%0A%09%09%09%09%09%09%09var%20color%20%3D%20data.color%3B%0A%09%09%09%09%0A%09%09%09%09%09%09%09//%20Update%20status%20text%0A%09%09%09%09%09%09%09document.getElementById%28%22status%22%29.innerText%20%3D%20statusText%3B%0A%09%09%09%09%0A%09%09%09%09%09%09%09//%20Apply%20the%20color%20to%20the%20element%0A%09%09%09%09%09%09%09document.getElementById%28%22status%22%29.style.color%20%3D%20color%3B%0A%09%09%09%09%09%09%7D%29%3B%0A%09%09%09%09%09%3C/script%3E%0A%09%09%09%09%3C/body%3E%0A%09%09%09%09%09%3Ch1%20class%3D%22subtitle%22%20style%3D%22margin-top%3A%201em%3B%20color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%20font-weight%3A%20bold%3B%22%3E%0A%09%09%09%09%09%09A%20simple%20and%20modern%20%3Cdiv%20class%3D%22fancy-text%22%3EWA-BOT.%3C/div%3E%0A%09%09%09%09%09%09%3Cdiv%20class%3D%22info%22%3E%0A%09%09%09%09%09%09%09%3Cnav%20class%3D%22level%22%20style%3D%22margin-top%3A%202em%3B%22%3E%0A%09%09%09%09%09%09%09%09%3Cdiv%20class%3D%22level-item%20has-text-centered%22%3E%0A%09%09%09%09%09%09%09%09%09%3Cdiv%3E%0A%09%09%09%09%09%09%09%09%09%09%3Cp%20class%3D%22heading%22%20style%3D%22color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%20font-weight%3A%20bold%3B%22%3E%3C/p%3EChannels%3C/p%3E%0A%09%09%09%09%09%09%09%09%09%09%3Cp%20class%3D%22title%22%20style%3D%22color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%20font-weight%3A%20bold%3B%22%20id%3D%22channelsPlaceholder%22%3E%3C/p%3E%0A%09%09%09%09%09%09%09%09%09%3C/div%3E%0A%09%09%09%09%09%09%09%09%3C/div%3E%0A%09%09%09%09%09%09%09%09%3Cdiv%20class%3D%22level-item%20has-text-centered%22%3E%0A%09%09%09%09%09%09%09%09%09%3Cdiv%3E%0A%09%09%09%09%09%09%09%09%09%09%3Cp%20class%3D%22heading%22%20style%3D%22color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%20font-weight%3A%20bold%3B%22%3E%3C/p%3EUsers%3C/p%3E%0A%09%09%09%09%09%09%09%09%09%09%3Cp%20class%3D%22title%22%20style%3D%22color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%20font-weight%3A%20bold%3B%22%20id%3D%22usersPlaceholder%22%3E%3C/p%3E%0A%09%09%09%09%09%09%09%09%09%3C/div%3E%0A%09%09%09%09%09%09%09%09%3C/div%3E%0A%09%09%09%09%09%09%09%09%3Cdiv%20class%3D%22level-item%20has-text-centered%22%3E%0A%09%09%09%09%09%09%09%09%09%3Cdiv%3E%0A%09%09%09%09%09%09%09%09%09%09%3Cp%20class%3D%22heading%22%20style%3D%22color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%20font-weight%3A%20bold%3B%22%3E%3C/p%3EUptime%3C/p%3E%0A%09%09%09%09%09%09%09%09%09%09%3Cp%20class%3D%22title%22%20style%3D%22color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%20font-weight%3A%20bold%3B%22%20id%3D%22uptimePlaceholder%22%3E%3C/p%3E%0A%09%09%09%09%09%09%09%09%09%3C/div%3E%0A%09%09%09%09%09%09%09%09%3C/div%3E%0A%09%09%09%09%09%09%09%3C/nav%3E%0A%09%09%09%09%09%09%3C/div%3E%0A%09%09%09%09%09%3C/h2%3E%0A%09%09%09%09%09%3Cscript%20src%3D%22https%3A//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js%22%3E%3C/script%3E%0A%09%09%09%09%09%3Cscript%3E%0A%09%09%09%09%09%09//%20Load%20configuration%20from%20JSON%20file%0A%09%09%09%09%09%09%24.getJSON%28%22config.json%22%2C%20function%28data%29%20%7B%0A%09%09%09%09%09%09%09//%20Update%20placeholders%20with%20dynamic%20content%0A%09%09%09%09%09%09%09%24%28%22%23channelsPlaceholder%22%29.text%28data.channels%29%3B%0A%09%09%09%09%09%09%09%24%28%22%23usersPlaceholder%22%29.text%28data.users%29%3B%0A%09%09%09%09%09%09%09%24%28%22%23uptimePlaceholder%22%29.text%28data.uptime%29%3B%0A%09%09%09%09%09%09%7D%29%3B%0A%09%09%09%09%09%3C/script%3E%0A%09%09%09%09%09%3Cdiv%20style%3D%22margin-top%3A3em%3B%20font-weight%3A%20bold%3B%22%3E%0A%09%09%09%09%09%09%3Ca%20href%3D%22https%3A//wa.me/99999%22%20class%3D%22button%20is-info%20is-inverted%22%20style%3D%22background-color%3A%20%23ffbebb00%3B%20color%3A%20red%3B%20border-color%3A%20white%3B%22%3E%0A%09%09%09%09%09%09%09%3Cspan%3EInvite%20Cygnus-Bot%20To%20Your%20Group%20Chat%3C/span%3E%0A%09%09%09%09%09%09%3C/a%3E%0A%09%09%09%09%09%3C/div%3E%0A%09%09%09%09%3C/div%3E%0A%09%09%09%09%3C/div%3E%0A%09%09%09%3C/div%3E%0A%09%09%3C/section%3E%0A%09%3C/body%3E%0A%09%3Cscript%20src%3D%22cdn/js/particles.min.js%22%3E%3C/script%3E%0A%09%3Cscript%3E%0A%09%09particlesJS%28%27particles-js%27%2C%20%7B%0A%09%09%09%22particles%22%3A%20%7B%0A%09%09%09%09%22number%22%3A%20%7B%0A%09%09%09%09%22value%22%3A%2050%2C%0A%09%09%09%09%22density%22%3A%20%7B%0A%09%09%09%09%09%22enable%22%3A%20true%2C%0A%09%09%09%09%09%22value_area%22%3A%20800%0A%09%09%09%09%7D%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22color%22%3A%20%7B%0A%09%09%09%09%22value%22%3A%20%22%23ffffff%22%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22shape%22%3A%20%7B%0A%09%09%09%09%22type%22%3A%20%22circle%22%2C%0A%09%09%09%09%22stroke%22%3A%20%7B%0A%09%09%09%09%09%22width%22%3A%200%2C%0A%09%09%09%09%09%22color%22%3A%20%22%23000000%22%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22polygon%22%3A%20%7B%0A%09%09%09%09%09%22nb_sides%22%3A%205%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22image%22%3A%20%7B%0A%09%09%09%09%09%22src%22%3A%20%22img/github.svg%22%2C%0A%09%09%09%09%09%22width%22%3A%20100%2C%0A%09%09%09%09%09%22height%22%3A%20100%0A%09%09%09%09%7D%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22opacity%22%3A%20%7B%0A%09%09%09%09%22value%22%3A%200.5%2C%0A%09%09%09%09%22random%22%3A%20false%2C%0A%09%09%09%09%22anim%22%3A%20%7B%0A%09%09%09%09%09%22enable%22%3A%20false%2C%0A%09%09%09%09%09%22speed%22%3A%201%2C%0A%09%09%09%09%09%22opacity_min%22%3A%200.1%2C%0A%09%09%09%09%09%22sync%22%3A%20false%0A%09%09%09%09%7D%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22size%22%3A%20%7B%0A%09%09%09%09%22value%22%3A%203%2C%0A%09%09%09%09%22random%22%3A%20true%2C%0A%09%09%09%09%22anim%22%3A%20%7B%0A%09%09%09%09%09%22enable%22%3A%20false%2C%0A%09%09%09%09%09%22speed%22%3A%2040%2C%0A%09%09%09%09%09%22size_min%22%3A%200.1%2C%0A%09%09%09%09%09%22sync%22%3A%20false%0A%09%09%09%09%7D%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22line_linked%22%3A%20%7B%0A%09%09%09%09%22enable%22%3A%20true%2C%0A%09%09%09%09%22distance%22%3A%20150%2C%0A%09%09%09%09%22color%22%3A%20%22%23ffffff%22%2C%0A%09%09%09%09%22opacity%22%3A%200.4%2C%0A%09%09%09%09%22width%22%3A%200.9469771699587272%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22move%22%3A%20%7B%0A%09%09%09%09%22enable%22%3A%20true%2C%0A%09%09%09%09%22speed%22%3A%201.5782952832645452%2C%0A%09%09%09%09%22direction%22%3A%20%22none%22%2C%0A%09%09%09%09%22random%22%3A%20false%2C%0A%09%09%09%09%22straight%22%3A%20false%2C%0A%09%09%09%09%22out_mode%22%3A%20%22out%22%2C%0A%09%09%09%09%22bounce%22%3A%20false%2C%0A%09%09%09%09%22attract%22%3A%20%7B%0A%09%09%09%09%09%22enable%22%3A%20false%2C%0A%09%09%09%09%09%22rotateX%22%3A%20600%2C%0A%09%09%09%09%09%22rotateY%22%3A%201200%0A%09%09%09%09%7D%0A%09%09%09%09%7D%0A%09%09%09%7D%2C%0A%09%09%09%22interactivity%22%3A%20%7B%0A%09%09%09%09%22detect_on%22%3A%20%22canvas%22%2C%0A%09%09%09%09%22events%22%3A%20%7B%0A%09%09%09%09%22onhover%22%3A%20%7B%0A%09%09%09%09%09%22enable%22%3A%20false%2C%0A%09%09%09%09%09%22mode%22%3A%20%22repulse%22%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22onclick%22%3A%20%7B%0A%09%09%09%09%09%22enable%22%3A%20true%2C%0A%09%09%09%09%09%22mode%22%3A%20%22push%22%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22resize%22%3A%20true%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22modes%22%3A%20%7B%0A%09%09%09%09%22grab%22%3A%20%7B%0A%09%09%09%09%09%22distance%22%3A%20400%2C%0A%09%09%09%09%09%22line_linked%22%3A%20%7B%0A%09%09%09%09%09%22opacity%22%3A%201%0A%09%09%09%09%09%7D%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22bubble%22%3A%20%7B%0A%09%09%09%09%09%22distance%22%3A%20400%2C%0A%09%09%09%09%09%22size%22%3A%2040%2C%0A%09%09%09%09%09%22duration%22%3A%202%2C%0A%09%09%09%09%09%22opacity%22%3A%208%2C%0A%09%09%09%09%09%22speed%22%3A%203%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22repulse%22%3A%20%7B%0A%09%09%09%09%09%22distance%22%3A%20200%2C%0A%09%09%09%09%09%22duration%22%3A%200.4%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22push%22%3A%20%7B%0A%09%09%09%09%09%22particles_nb%22%3A%204%0A%09%09%09%09%7D%2C%0A%09%09%09%09%22remove%22%3A%20%7B%0A%09%09%09%09%09%22particles_nb%22%3A%202%0A%09%09%09%09%7D%0A%09%09%09%09%7D%0A%09%09%09%7D%2C%0A%09%09%09%22retina_detect%22%3A%20true%0A%09%09%09%7D%29%3B%0A%09%3C/script%3E%0A%3C/html%3E'))
-</script>
+<!DOCTYPE html>
+<html style="background-color: #eaeaea; overflow-y: auto;">
+<head>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  		<meta charset="UTF-8">
+  		<meta name="author" content="Cygnus-Bot">
+		<title>Cygnus-Bot</title>
+		<link rel="icon" href="cdn/images/logo2.png">
+		<link rel="stylesheet" href="cdn/css/bulma.css">
+		<link rel="stylesheet" href="cdn/css/font-awesome.min.css">
+		<link rel="stylesheet" href="cdn/css/main.css">
+        <meta property="og:url" content="index.html">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="A simple and modern whatsaap-bot bot.">
+        <meta property="og:description" content="Cygnus-Bot provides fun and searching features to any whatsaap-bot server, it also comes with a large selection of moderation tools. Cygnus-Bot is built on Node.js Bailys.">
+        <meta property="og:image" content="cdn/images/lucy-og.png">
+        <meta property="og:image:secure_url" content="cdn/images/lucy-og.png">
+		<meta name="viewport" content="width=device-width, initial-scale=0.8">
+		<style>
+			.status td {
+				text-align: center !important;
+				padding: 2px;
+			}
+			.status thead {
+				border-bottom: 1px solid #ddd;
+			}
+			.status th:first-child, .status td:first-child { 
+    			font-weight: bolder;
+			}
+			.premium td {
+				text-align: center !important;
+				padding: 15px;
+			}
+			.premium th, .premium td {
+				border-bottom: 1px solid #ddd;
+			}
+			.premium th:first-child, .premium td:first-child { 
+    			font-weight: bolder;
+			}
+			#particle-js {
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				background-repeat: no-repeat;
+				background-size: cover;
+				background-position: 50% 50%;
+				opacity: 0.48;
+			}
+			canvas {
+				position: fixed;
+			}
+			@media screen and (max-width: 770px) {
+				.hero-body {
+					padding: 0px !important;
+					padding-top: 3em !important;
+				}
+			}
+			.circle:before {
+				content: ' \25CF';
+				font-size: 16px;
+			}
+
+  </style>
+		</style>
+	</head>
+	<body>
+		<section class="hero is-info is-fullheight" style="background-image: url('cdn/images/1.png'); background-size: cover; background-color: #000000;">
+			<!-- Hero header: will stick at the top -->
+			<div class="hero-head">
+				<header class="nav">
+					<div class="container">
+						<a class="nav-item" href='index.html'>
+							<img src="cdn/images/logo.png" class="hideme" style="width: 6em;">
+						</a>
+						<div class="nav-right">
+							<a href="index.html" class="nav-item is-active ">
+								Home
+							</a>
+							<a href="commands.html" class="nav-item ">
+								Commands
+							</a>
+							<a href="https://wa.me/9999" class="nav-item " style="color: #ffffff;">
+								<span>Invite</span>
+							</a>						</div>
+					</div>
+				</header>
+			</div>
+	
+			<!-- Hero content: will be in the middle -->
+			<div id="particles-js"></div>
+			<div class="hero-body">
+				<div class="container has-text-centered">
+					<h1 class="title" style="color: black;">
+						<img src="cdn/images/logo.png">
+					</h1>
+					<p>BOT STATUS:</p>
+					<p class="fancy-text" id="status">Not Active</p>
+					<p style="margin-top: 1em; color: rgb(255, 0, 221); font-weight: bold;">If You Have Spare PhoneNumbers Please Contact Us</p>
+				
+					<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+					<script>
+						// Load configuration from JSON file
+						$.getJSON("config.json", function(data) {
+							// Get status text and color from configuration
+							var statusText = data.statusText;
+							var color = data.color;
+				
+							// Update status text
+							document.getElementById("status").innerText = statusText;
+				
+							// Apply the color to the element
+							document.getElementById("status").style.color = color;
+						});
+					</script>
+				</body>
+					<h1 class="subtitle" style="margin-top: 1em; color: rgb(255, 255, 255); font-weight: bold;">
+						A simple and modern <div class="fancy-text">WA-BOT.</div>
+						<div class="info">
+							<nav class="level" style="margin-top: 2em;">
+								<div class="level-item has-text-centered">
+									<div>
+										<p class="heading" style="color: rgb(255, 255, 255); font-weight: bold;"></p>Channels</p>
+										<p class="title" style="color: rgb(255, 255, 255); font-weight: bold;" id="channelsPlaceholder"></p>
+									</div>
+								</div>
+								<div class="level-item has-text-centered">
+									<div>
+										<p class="heading" style="color: rgb(255, 255, 255); font-weight: bold;"></p>Users</p>
+										<p class="title" style="color: rgb(255, 255, 255); font-weight: bold;" id="usersPlaceholder"></p>
+									</div>
+								</div>
+								<div class="level-item has-text-centered">
+									<div>
+										<p class="heading" style="color: rgb(255, 255, 255); font-weight: bold;"></p>Uptime</p>
+										<p class="title" style="color: rgb(255, 255, 255); font-weight: bold;" id="uptimePlaceholder"></p>
+									</div>
+								</div>
+							</nav>
+						</div>
+					</h2>
+					<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+					<script>
+						// Load configuration from JSON file
+						$.getJSON("config.json", function(data) {
+							// Update placeholders with dynamic content
+							$("#channelsPlaceholder").text(data.channels);
+							$("#usersPlaceholder").text(data.users);
+							$("#uptimePlaceholder").text(data.uptime);
+						});
+					</script>
+					<div style="margin-top:3em; font-weight: bold;">
+						<a href="https://wa.me/99999" class="button is-info is-inverted" style="background-color: #ffbebb00; color: red; border-color: white;">
+							<span>Invite Cygnus-Bot To Your Group Chat</span>
+						</a>
+					</div>
+				</div>
+				</div>
+			</div>
+		</section>
+	</body>
+	<script src="cdn/js/particles.min.js"></script>
+	<script>
+		particlesJS('particles-js', {
+			"particles": {
+				"number": {
+				"value": 50,
+				"density": {
+					"enable": true,
+					"value_area": 800
+				}
+				},
+				"color": {
+				"value": "#ffffff"
+				},
+				"shape": {
+				"type": "circle",
+				"stroke": {
+					"width": 0,
+					"color": "#000000"
+				},
+				"polygon": {
+					"nb_sides": 5
+				},
+				"image": {
+					"src": "img/github.svg",
+					"width": 100,
+					"height": 100
+				}
+				},
+				"opacity": {
+				"value": 0.5,
+				"random": false,
+				"anim": {
+					"enable": false,
+					"speed": 1,
+					"opacity_min": 0.1,
+					"sync": false
+				}
+				},
+				"size": {
+				"value": 3,
+				"random": true,
+				"anim": {
+					"enable": false,
+					"speed": 40,
+					"size_min": 0.1,
+					"sync": false
+				}
+				},
+				"line_linked": {
+				"enable": true,
+				"distance": 150,
+				"color": "#ffffff",
+				"opacity": 0.4,
+				"width": 0.9469771699587272
+				},
+				"move": {
+				"enable": true,
+				"speed": 1.5782952832645452,
+				"direction": "none",
+				"random": false,
+				"straight": false,
+				"out_mode": "out",
+				"bounce": false,
+				"attract": {
+					"enable": false,
+					"rotateX": 600,
+					"rotateY": 1200
+				}
+				}
+			},
+			"interactivity": {
+				"detect_on": "canvas",
+				"events": {
+				"onhover": {
+					"enable": false,
+					"mode": "repulse"
+				},
+				"onclick": {
+					"enable": true,
+					"mode": "push"
+				},
+				"resize": true
+				},
+				"modes": {
+				"grab": {
+					"distance": 400,
+					"line_linked": {
+					"opacity": 1
+					}
+				},
+				"bubble": {
+					"distance": 400,
+					"size": 40,
+					"duration": 2,
+					"opacity": 8,
+					"speed": 3
+				},
+				"repulse": {
+					"distance": 200,
+					"duration": 0.4
+				},
+				"push": {
+					"particles_nb": 4
+				},
+				"remove": {
+					"particles_nb": 2
+				}
+				}
+			},
+			"retina_detect": true
+			});
+	</script>
+</html>
