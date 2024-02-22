@@ -1,7 +1,7 @@
 {
-  "statusText": "Not Active",
-  "color": "#FF0000",
-  "channels": "1",
-  "users": "0",
+  "statusText": "Active",
+  "color": "#00FF00",
+  "channels": "8",
+  "users": "100",
   "uptime": "60%"
 }
