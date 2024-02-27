@@ -1,7 +1,11 @@
 {
-  "statusText": "Active",
+  "statusText": "Not Active",
   "color": "#00FF00",
-  "channels": "8",
-  "users": "100",
-  "uptime": "60%"
+  "channels": "0",
+  "users": "0",
+  "uptime": "60%",
+  "inviteLink": {
+    "phoneNumber": "27717311486",
+    "text": ".offline"
+  }
 }
