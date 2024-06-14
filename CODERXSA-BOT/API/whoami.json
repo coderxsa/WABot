@@ -1,0 +1,3116 @@
+[
+  {
+    "index": 0,
+    "soal": "I am a handicraft. I have a shape like a human face.",
+    "jawaban": [
+      "Q",
+      "o",
+      "p",
+      "e",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 1,
+    "soal": "I wear a brown uniform. I am tasked with protecting the community.",
+    "jawaban": [
+      "P",
+      "o",
+      "l",
+      "i",
+      "s",
+      "i"
+    ]
+  },
+  {
+    "index": 2,
+    "soal": "I'm very quiet at night. I always have people visiting me on certain days. I am a place for a long rest.",
+    "jawaban": [
+      "K",
+      "u",
+      "b",
+      "u",
+      "r",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 3,
+    "soal": "I liked the kids for breakfast. I often have it in bread. Most of my flavors are strawberry or pineapple.",
+    "jawaban": [
+      "S",
+      "e",
+      "l",
+      "a",
+      "i"
+    ]
+  },
+  {
+    "index": 4,
+    "soal": "I'm invisible. Only certain people can see me. I'm also very interesting to talk about.",
+    "jawaban": [
+      "H",
+      "a",
+      "n",
+      "t",
+      "u"
+    ]
+  },
+  {
+    "index": 5,
+    "soal": "I am in a human body. I'm out if anyone gets hurt. I'm red.",
+    "jawaban": [
+      "D",
+      "a",
+      "r",
+      "a",
+      "h"
+    ]
+  },
+  {
+    "index": 6,
+    "soal": "I'm some kind of animal. All parts of my body are in my head. I can cause itching.",
+    "jawaban": [
+      "K",
+      "u",
+      "t",
+      "u"
+    ]
+  },
+  {
+    "index": 7,
+    "soal": "My body is long, but I'm not a snake. I can tie anything.",
+    "jawaban": [
+      "Q",
+      "a",
+      "l",
+      "i"
+    ]
+  },
+  {
+    "index": 8,
+    "soal": "I grew up in a mountainous area. I'm a kind of vegetable. I'm green and can also be purple. I have a round shape.",
+    "jawaban": [
+      "K",
+      "u",
+      "b",
+      "i",
+      "s"
+    ]
+  },
+  {
+    "index": 9,
+    "soal": "I wear it on my head. Not just anyone can wear it. I am made of gold with precious stones all around.",
+    "jawaban": [
+      "m",
+      "a",
+      "h",
+      "k",
+      "o",
+      "t",
+      "a"
+    ]
+  },
+  {
+    "index": 10,
+    "soal": "I'm made of cloth. I have various shapes, I'm for covering windows.",
+    "jawaban": [
+      "Q",
+      "i",
+      "r",
+      "a",
+      "i"
+    ]
+  },
+  {
+    "index": 11,
+    "soal": "My form can be solid or liquid. If I rub it, it will foam. I'm in the bathroom.",
+    "jawaban": [
+      "S",
+      "a",
+      "b",
+      "u",
+      "n"
+    ]
+  },
+  {
+    "index": 12,
+    "soal": "My body is hard and long. I taste sweet, but I'm not sugar.",
+    "jawaban": [
+      "T",
+      "e",
+      "b",
+      "u"
+    ]
+  },
+  {
+    "index": 13,
+    "soal": "I have light. My light can be healthy. When I come there are usually lots of people at the beach.",
+    "jawaban": [
+      "S",
+      "o",
+      "r",
+      "e"
+    ]
+  },
+  {
+    "index": 14,
+    "soal": "My body is made of iron. My teeth are sharp and numerous. I like cutting.",
+    "jawaban": [
+      "G",
+      "e",
+      "r",
+      "g",
+      "a",
+      "j",
+      "i"
+    ]
+  },
+  {
+    "index": 15,
+    "soal": "When I have a fever, I am often given a warm compress. When I am thinking hard, I am often held. When I forget, I am often patted.",
+    "jawaban": [
+      "D",
+      "a",
+      "h",
+      "i"
+    ]
+  },
+  {
+    "index": 16,
+    "soal": "I like playing roles. Often appears on television and in films. I'm famous too. I am male.",
+    "jawaban": [
+      "A",
+      "k",
+      "t",
+      "o",
+      "r"
+    ]
+  },
+  {
+    "index": 17,
+    "soal": "I can turn on the light. Of course I can turn off the light. But without electricity I am useless.",
+    "jawaban": [
+      "S",
+      "a",
+      "k",
+      "l",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 18,
+    "soal": "I was born in Arabia. I lived and grew up in Arabia. But I don't speak Arabic at all.",
+    "jawaban": [
+      "U",
+      "n",
+      "t",
+      "a"
+    ]
+  },
+  {
+    "index": 19,
+    "soal": "My body is small and long. I only have one hair. I appeared when it was pitch black.",
+    "jawaban": [
+      "L",
+      "i",
+      "l",
+      "i",
+      "n"
+    ]
+  },
+  {
+    "index": 20,
+    "soal": "I'm like a marching ant, only to men. It only appears in certain parts.",
+    "jawaban": [
+      "K",
+      "u",
+      "m",
+      "i",
+      "s"
+    ]
+  },
+  {
+    "index": 21,
+    "soal": "I use it when cooking. My body can hurt. I'm very sharp. I'm made of stainless steel.",
+    "jawaban": [
+      "P",
+      "i",
+      "s",
+      "a",
+      "u"
+    ]
+  },
+  {
+    "index": 22,
+    "soal": "I am a box that can talk and can entertain people. I'm colorful too.",
+    "jawaban": [
+      "Q",
+      "e",
+      "l",
+      "e",
+      "v",
+      "i",
+      "s",
+      "i"
+    ]
+  },
+  {
+    "index": 23,
+    "soal": "Morning, afternoon, evening and night I work non-stop and keep going round and round, otherwise I will die.",
+    "jawaban": [
+      "J",
+      "a",
+      "m"
+    ]
+  },
+  {
+    "index": 24,
+    "soal": "I hide but my head is always visible.",
+    "jawaban": [
+      "P",
+      "a",
+      "k",
+      "u"
+    ]
+  },
+  {
+    "index": 25,
+    "soal": "I live on electricity. My bottom is very hot. My bottom is metal. I use it to straighten clothes.",
+    "jawaban": [
+      "S",
+      "e",
+      "t",
+      "r",
+      "i",
+      "k",
+      "a"
+    ]
+  },
+  {
+    "index": 26,
+    "soal": "I am a fruit. When I cook, my color is yellow. I am oval shaped. I'm for dessert.",
+    "jawaban": [
+      "P",
+      "i",
+      "s",
+      "a",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 27,
+    "soal": "I'm carrying things. I'm colorful. I was taken to school. I'm usually on the back.",
+    "jawaban": [
+      "Q",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "index": 28,
+    "soal": "I'm so hot. I can make things disappear. I will grow up with the wind. I'm afraid of water.",
+    "jawaban": [
+      "A",
+      "p",
+      "i"
+    ]
+  },
+  {
+    "index": 29,
+    "soal": "Guess who I am? I'm made of wood. I have 4 legs. I could break. I'm used to sitting.",
+    "jawaban": [
+      "K",
+      "u",
+      "r",
+      "s",
+      "i"
+    ]
+  },
+  {
+    "index": 30,
+    "soal": "I am an animal. I have 4 legs. I'm a grass eater. I'm white.",
+    "jawaban": [
+      "S",
+      "a",
+      "p",
+      "i"
+    ]
+  },
+  {
+    "index": 31,
+    "soal": "Even though they are purchased at different times, they always run out at the same time.",
+    "jawaban": [
+      "K",
+      "a",
+      "l",
+      "e",
+      "n",
+      "d",
+      "e",
+      "r"
+    ]
+  },
+  {
+    "index": 32,
+    "soal": "I'm glowing. Sometimes I'm colorful. I live on electricity. I'm useful in the dark.",
+    "jawaban": [
+      "L",
+      "a",
+      "m",
+      "p",
+      "u"
+    ]
+  },
+  {
+    "index": 33,
+    "soal": "I am liquid. I am clear. I am essential for life.",
+    "jawaban": [
+      "A",
+      "i",
+      "r"
+    ]
+  },
+  {
+    "index": 34,
+    "soal": "I am an animal. I have horns. I am a grass eater. Sometimes I am made into satay.",
+    "jawaban": [
+      "K",
+      "a",
+      "m",
+      "b",
+      "i",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 35,
+    "soal": "I used it while sleeping. I'm very gentle. I'm wide and long. I always warm.",
+    "jawaban": [
+      "S",
+      "e",
+      "l",
+      "i",
+      "m",
+      "u",
+      "t"
+    ]
+  },
+  {
+    "index": 36,
+    "soal": "I'm a reptile. I'm a meat eater. My bite contains poison. I don't have legs.",
+    "jawaban": [
+      "U",
+      "l",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 37,
+    "soal": "I'm the enemy of water. Sometimes I cook. I am liquid. I'm very slippery.",
+    "jawaban": [
+      "m",
+      "i",
+      "n",
+      "y",
+      "a",
+      "k"
+    ]
+  },
+  {
+    "index": 38,
+    "soal": "I'm made of cotton. I used to sleep. I'm very soft. Mine is rectangular.",
+    "jawaban": [
+      "B",
+      "a",
+      "n",
+      "t",
+      "a",
+      "l"
+    ]
+  },
+  {
+    "index": 39,
+    "soal": "I'm very soft. I have various motives. I was in the living room. Usually I sit.",
+    "jawaban": [
+      "S",
+      "o",
+      "f",
+      "a"
+    ]
+  },
+  {
+    "index": 40,
+    "soal": "I'm made of wood. I'm square. I have the door. Sometimes I have the mirror.",
+    "jawaban": [
+      "L",
+      "e",
+      "m",
+      "a",
+      "r",
+      "i"
+    ]
+  },
+  {
+    "index": 41,
+    "soal": "I'm very gentle. I'm white. Mine is rectangular. Usually I wipe something dirty.",
+    "jawaban": [
+      "Q",
+      "i",
+      "s",
+      "u"
+    ]
+  },
+  {
+    "index": 42,
+    "soal": "I'm red, I'm blue, I'm green. I also often visit you.",
+    "jawaban": [
+      "G",
+      "o",
+      "o",
+      "g",
+      "l",
+      "e"
+    ]
+  },
+  {
+    "index": 43,
+    "soal": "You strangled my neck. You touch my body. I laughed too.",
+    "jawaban": [
+      "G",
+      "i",
+      "t",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 44,
+    "soal": "I'm round. Usually white. If I fall, I might break. I use it when eating.",
+    "jawaban": [
+      "P",
+      "i",
+      "r",
+      "i",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 45,
+    "soal": "I am the room. In my room there is a stove. I'm the place to cook.",
+    "jawaban": [
+      "D",
+      "a",
+      "p",
+      "u",
+      "r"
+    ]
+  },
+  {
+    "index": 46,
+    "soal": "I'm a profession. I'm usually in the hospital. I examine sick people.",
+    "jawaban": [
+      "D",
+      "o",
+      "k",
+      "t",
+      "e",
+      "r"
+    ]
+  },
+  {
+    "index": 47,
+    "soal": "I'm very funny. I'm a toy. I was played by children. Usually I take the form of imitations of animals, humans, etc.",
+    "jawaban": [
+      "B",
+      "o",
+      "n",
+      "e",
+      "k",
+      "a"
+    ]
+  },
+  {
+    "index": 48,
+    "soal": "I'm round. I'm so delicious. Usually I use it as a side dish. I have the yellow in the middle.",
+    "jawaban": [
+      "Q",
+      "e",
+      "l",
+      "u",
+      "r"
+    ]
+  },
+  {
+    "index": 49,
+    "soal": "I'm one of the ducks. I produce eggs. My eggs are blue.",
+    "jawaban": [
+      "B",
+      "e",
+      "b",
+      "e",
+      "k"
+    ]
+  },
+  {
+    "index": 50,
+    "soal": "I'm part of the body. I have 2 left and right. I am the five senses.",
+    "jawaban": [
+      "Q",
+      "e",
+      "l",
+      "i",
+      "n",
+      "g",
+      "a"
+    ]
+  },
+  {
+    "index": 51,
+    "soal": "I'm so shiny. I'm yellow. Sometimes I'm in the shape of a ring.",
+    "jawaban": [
+      "E",
+      "m",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "index": 52,
+    "soal": "I am an animal. I can pull a cart. Usually I'm used for carriages.",
+    "jawaban": [
+      "K",
+      "u",
+      "d",
+      "a"
+    ]
+  },
+  {
+    "index": 53,
+    "soal": "I'm an island. I belong to the WITA area. Many foreign tourists here.",
+    "jawaban": [
+      "B",
+      "a",
+      "l",
+      "i"
+    ]
+  },
+  {
+    "index": 54,
+    "soal": "I am the earth's natural satellite. I'm round. I shine at night.",
+    "jawaban": [
+      "B",
+      "u",
+      "l",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 55,
+    "soal": "I am a stationery. I always hold my thumb and forefinger. I'm going to write a book.",
+    "jawaban": [
+      "P",
+      "e",
+      "n",
+      "s",
+      "i",
+      "l"
+    ]
+  },
+  {
+    "index": 56,
+    "soal": "I'm in the form of cloth. I'm always used by humans. I have 3 holes.",
+    "jawaban": [
+      "C",
+      "e",
+      "l",
+      "a",
+      "n",
+      "a"
+    ]
+  },
+  {
+    "index": 57,
+    "soal": "I am liquid. I am the habitat of whales. Cruise ships are always above me.",
+    "jawaban": [
+      "L",
+      "a",
+      "u",
+      "t"
+    ]
+  },
+  {
+    "index": 58,
+    "soal": "I'm white. I am a small grain. I taste salty.",
+    "jawaban": [
+      "G",
+      "a",
+      "r",
+      "a",
+      "m"
+    ]
+  },
+  {
+    "index": 59,
+    "soal": "I am liquid. I'm one of the fuel. I'm available at POM.",
+    "jawaban": [
+      "P",
+      "e",
+      "r",
+      "t",
+      "a",
+      "m",
+      "a",
+      "x"
+    ]
+  },
+  {
+    "index": 60,
+    "soal": "I am a place. I'm the inter-city liaison. I'm a train stop.",
+    "jawaban": [
+      "S",
+      "t",
+      "a",
+      "s",
+      "i",
+      "u",
+      "n"
+    ]
+  },
+  {
+    "index": 61,
+    "soal": "I'm a solid object. My body is very hard. I often use it for house foundations.",
+    "jawaban": [
+      "B",
+      "a",
+      "t",
+      "u"
+    ]
+  },
+  {
+    "index": 62,
+    "soal": "I'm round. I'm so hot. I am the center of the solar system.",
+    "jawaban": [
+      "m",
+      "a",
+      "t",
+      "a",
+      "h",
+      "a",
+      "r",
+      "i"
+    ]
+  },
+  {
+    "index": 63,
+    "soal": "I'm definitely a pair. I'm so loud. Not all animals have me. I'm in over my head.",
+    "jawaban": [
+      "Q",
+      "a",
+      "n",
+      "d",
+      "u",
+      "k"
+    ]
+  },
+  {
+    "index": 64,
+    "soal": "I used to drink. I'm a tube without a lid. I'm all kinds. I'm made of plastic atoms.",
+    "jawaban": [
+      "C",
+      "a",
+      "n",
+      "g",
+      "k",
+      "i",
+      "r"
+    ]
+  },
+  {
+    "index": 65,
+    "soal": "I am round. I am placed on top of the head. My function is to cover from the heat.",
+    "jawaban": [
+      "Q",
+      "o",
+      "p",
+      "i"
+    ]
+  },
+  {
+    "index": 66,
+    "soal": "Everyone respects me. Every country must have me. I am made of cloth.",
+    "jawaban": [
+      "B",
+      "e",
+      "n",
+      "d",
+      "e",
+      "r",
+      "a"
+    ]
+  },
+  {
+    "index": 67,
+    "soal": "I am a profession. I am the one who takes care of the rice fields.",
+    "jawaban": [
+      "P",
+      "e",
+      "t",
+      "a",
+      "n",
+      "i"
+    ]
+  },
+  {
+    "index": 68,
+    "soal": "I live on diesel. I have 4 wheels. I have a big body.",
+    "jawaban": [
+      "Q",
+      "r",
+      "u",
+      "c",
+      "k"
+    ]
+  },
+  {
+    "index": 69,
+    "soal": "I'm square. I'm red. I usually build houses.",
+    "jawaban": [
+      "B",
+      "a",
+      "t",
+      "a"
+    ]
+  },
+  {
+    "index": 70,
+    "soal": "My body is long. I always get stepped on. I'm stretched out in the river.",
+    "jawaban": [
+      "J",
+      "e",
+      "m",
+      "b",
+      "a",
+      "t",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 71,
+    "soal": "I am a cleaning tool. My body is made of wood. I often come into contact with the floor.",
+    "jawaban": [
+      "S",
+      "a",
+      "p",
+      "u"
+    ]
+  },
+  {
+    "index": 72,
+    "soal": "I'm tubular. My body consists of 2 layers. Usually I use it to store hot water.",
+    "jawaban": [
+      "Q",
+      "e",
+      "r",
+      "m",
+      "o",
+      "s"
+    ]
+  },
+  {
+    "index": 73,
+    "soal": "Guess who I am? I'm made of cloth. I'm square. Usually I wipe the table.",
+    "jawaban": [
+      "S",
+      "e",
+      "r",
+      "b",
+      "e",
+      "t"
+    ]
+  },
+  {
+    "index": 74,
+    "soal": "I will live on electricity. I'm at the office a lot. Usually I have MS Office inside.",
+    "jawaban": [
+      "K",
+      "o",
+      "m",
+      "p",
+      "u",
+      "t",
+      "e",
+      "r"
+    ]
+  },
+  {
+    "index": 75,
+    "soal": "I'm square. I'm usually in the kitchen. I can make fire.",
+    "jawaban": [
+      "K",
+      "o",
+      "m",
+      "p",
+      "o",
+      "r"
+    ]
+  },
+  {
+    "index": 76,
+    "soal": "I am an electronic object. My shape is square. I can make a sound.",
+    "jawaban": [
+      "R",
+      "a",
+      "d",
+      "i",
+      "o"
+    ]
+  },
+  {
+    "index": 77,
+    "soal": "I smell so good. I use it when I shower. I rubbed it in my hair.",
+    "jawaban": [
+      "S",
+      "a",
+      "m",
+      "p",
+      "o"
+    ]
+  },
+  {
+    "index": 78,
+    "soal": "I am a room. Usually I'm on the side of the house. I am a car place.",
+    "jawaban": [
+      "G",
+      "a",
+      "r",
+      "a",
+      "s",
+      "i"
+    ]
+  },
+  {
+    "index": 79,
+    "soal": "I am free space. Usually I'm in front of the house. Many kinds of flowers here.",
+    "jawaban": [
+      "Q",
+      "a",
+      "m",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 80,
+    "soal": "I'm part animal. Usually mine is long. I'm always on the back of the animal.",
+    "jawaban": [
+      "E",
+      "k",
+      "o",
+      "r"
+    ]
+  },
+  {
+    "index": 81,
+    "soal": "I'm a bird. Someone made me a symbol of the country.",
+    "jawaban": [
+      "G",
+      "a",
+      "r",
+      "u",
+      "d",
+      "a"
+    ]
+  },
+  {
+    "index": 82,
+    "soal": "I belong to a profession. Usually I am chosen through elections. I am person no. 1 in a province.",
+    "jawaban": [
+      "G",
+      "u",
+      "b",
+      "e",
+      "r",
+      "n",
+      "u",
+      "r"
+    ]
+  },
+  {
+    "index": 83,
+    "soal": "I am a place. I'm so cold. I have North and South.",
+    "jawaban": [
+      "K",
+      "u",
+      "t",
+      "u",
+      "b"
+    ]
+  },
+  {
+    "index": 84,
+    "soal": "I am a city. I'm in West Java. I am nicknamed Rain City.",
+    "jawaban": [
+      "B",
+      "o",
+      "g",
+      "o",
+      "r"
+    ]
+  },
+  {
+    "index": 85,
+    "soal": "I am liquid. I am black. I am very smelly. I am factory waste.",
+    "jawaban": [
+      "L",
+      "i",
+      "m",
+      "b",
+      "a",
+      "h"
+    ]
+  },
+  {
+    "index": 86,
+    "soal": "I'm the sports kind. I played with the ball. I have 2 rings at each end of the opponent.",
+    "jawaban": [
+      "B",
+      "a",
+      "s",
+      "k",
+      "e",
+      "t"
+    ]
+  },
+  {
+    "index": 87,
+    "soal": "I'm made of parasites. I have the handle. I used to shelter from the heat and rain.",
+    "jawaban": [
+      "P",
+      "a",
+      "y",
+      "u",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 88,
+    "soal": "I'm part of the body. My color is white. One of mine is called a molar.",
+    "jawaban": [
+      "G",
+      "i",
+      "g",
+      "i"
+    ]
+  },
+  {
+    "index": 89,
+    "soal": "I'm on the table. Usually made of wood. I'm a cigarette butt holder.",
+    "jawaban": [
+      "A",
+      "s",
+      "b",
+      "a",
+      "k"
+    ]
+  },
+  {
+    "index": 90,
+    "soal": "I am a work of art. People like to put me on display. I have an aesthetic.",
+    "jawaban": [
+      "L",
+      "u",
+      "k",
+      "i",
+      "s",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 91,
+    "soal": "I'm made of aluminum. I'm the clothes holder. I'm always put in the hot sun.",
+    "jawaban": [
+      "J",
+      "e",
+      "m",
+      "u",
+      "r",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 92,
+    "soal": "I'm a box. My insides are cold. I make ice.",
+    "jawaban": [
+      "K",
+      "u",
+      "l",
+      "k",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "index": 93,
+    "soal": "I could break. Every day people would look at me. I can reflect something that is in front of me.",
+    "jawaban": [
+      "C",
+      "e",
+      "r",
+      "m",
+      "i",
+      "n"
+    ]
+  },
+  {
+    "index": 94,
+    "soal": "I have one in every house. I'm the place to defecate.",
+    "jawaban": [
+      "Q",
+      "o",
+      "i",
+      "l",
+      "e",
+      "t"
+    ]
+  },
+  {
+    "index": 95,
+    "soal": "I'm a little bubble. I was produced by soap.",
+    "jawaban": [
+      "B",
+      "u",
+      "s",
+      "a"
+    ]
+  },
+  {
+    "index": 96,
+    "soal": "I live on electricity. I'm square. I use it to make bread.",
+    "jawaban": [
+      "O",
+      "v",
+      "e",
+      "n"
+    ]
+  },
+  {
+    "index": 97,
+    "soal": "I am a kitchen tool. I'm round. I used it to pound spices.",
+    "jawaban": [
+      "C",
+      "o",
+      "b",
+      "e",
+      "k"
+    ]
+  },
+  {
+    "index": 98,
+    "soal": "I'm long as a pipe. My body is flexible. My use is to drain water.",
+    "jawaban": [
+      "S",
+      "e",
+      "l",
+      "a",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 99,
+    "soal": "When I fall, I move slowly. When I go up, I move fast.",
+    "jawaban": [
+      "I",
+      "n",
+      "g",
+      "u",
+      "s"
+    ]
+  },
+  {
+    "index": 100,
+    "soal": "I'm alternating red and white. Stand tall and connect with each other. Bringing the far closer and keeping the near away.",
+    "jawaban": [
+      "Q",
+      "o",
+      "w",
+      "e",
+      "r"
+    ]
+  },
+  {
+    "index": 101,
+    "soal": "If you call me. I will be meaningless.",
+    "jawaban": [
+      "D",
+      "i",
+      "a",
+      "m"
+    ]
+  },
+  {
+    "index": 102,
+    "soal": "You hold me. Sometimes you don't want to be far from me. When you are gone, I am with you. The world seems lonely without my presence. When I screamed, you immediately looked for me.",
+    "jawaban": [
+      "H",
+      "a",
+      "n",
+      "d",
+      "p",
+      "h",
+      "o",
+      "n",
+      "e"
+    ]
+  },
+  {
+    "index": 103,
+    "soal": "I can eat. I can also be eaten. I'm black and white at war.",
+    "jawaban": [
+      "C",
+      "a",
+      "t",
+      "u",
+      "r"
+    ]
+  },
+  {
+    "index": 104,
+    "soal": "I'm always being chased. But no matter how long it takes, he will never succeed in getting ahead of me.",
+    "jawaban": [
+      "R",
+      "o",
+      "d",
+      "a"
+    ]
+  },
+  {
+    "index": 105,
+    "soal": "I always pair up. I'm left and right. I wore it to school. Sometimes I don't rope.",
+    "jawaban": [
+      "S",
+      "e",
+      "p",
+      "a",
+      "t",
+      "u"
+    ]
+  },
+  {
+    "index": 106,
+    "soal": "I am the Proclaimer of the Republic of Indonesia.",
+    "jawaban": [
+      "S",
+      "o",
+      "e",
+      "k",
+      "a",
+      "r",
+      "n",
+      "o"
+    ]
+  },
+  {
+    "index": 107,
+    "soal": "I am a part of a motor vehicle. I am used as a gas exhaust.",
+    "jawaban": [
+      "K",
+      "n",
+      "a",
+      "l",
+      "p",
+      "o",
+      "t"
+    ]
+  },
+  {
+    "index": 108,
+    "soal": "I am an animal. I can live in water and on land.",
+    "jawaban": [
+      "A",
+      "m",
+      "f",
+      "i",
+      "b",
+      "i"
+    ]
+  },
+  {
+    "index": 109,
+    "soal": "I am a country, I am the 2016 European Cup champion.",
+    "jawaban": [
+      "P",
+      "o",
+      "r",
+      "t",
+      "u",
+      "g",
+      "a",
+      "l"
+    ]
+  },
+  {
+    "index": 110,
+    "soal": "I am a currency, I come from Japan.",
+    "jawaban": [
+      "Y",
+      "e",
+      "n"
+    ]
+  },
+  {
+    "index": 111,
+    "soal": "I am one of the five human senses. I am used for tasting.",
+    "jawaban": [
+      "L",
+      "i",
+      "d",
+      "a",
+      "h"
+    ]
+  },
+  {
+    "index": 112,
+    "soal": "I am a planet. I'm the biggest in our solar system.",
+    "jawaban": [
+      "Y",
+      "u",
+      "p",
+      "i",
+      "t",
+      "e",
+      "r"
+    ]
+  },
+  {
+    "index": 113,
+    "soal": "I'm a snack product. I once advertised on television. I have a motto: 'How Many Layers? Hundreds'.",
+    "jawaban": [
+      "Q",
+      "a",
+      "n",
+      "g",
+      "o"
+    ]
+  },
+  {
+    "index": 114,
+    "soal": "I'm some kind of animal. I'm the smallest animal in the world.",
+    "jawaban": [
+      "A",
+      "m",
+      "u",
+      "b",
+      "a"
+    ]
+  },
+  {
+    "index": 115,
+    "soal": "I am a plant. My whole body is full of thorns. I am often found in the arid desert.",
+    "jawaban": [
+      "K",
+      "a",
+      "k",
+      "t",
+      "u",
+      "s"
+    ]
+  },
+  {
+    "index": 116,
+    "soal": "I am the name of a mountain. I am the highest mountain in the world.",
+    "jawaban": [
+      "E",
+      "v",
+      "e",
+      "r",
+      "e",
+      "s",
+      "t"
+    ]
+  },
+  {
+    "index": 117,
+    "soal": "I like promoting. It can be things, services and ideas. I can also increase sales.",
+    "jawaban": [
+      "I",
+      "k",
+      "l",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 118,
+    "soal": "If it's said once I'm far away. Saying it twice makes me close.",
+    "jawaban": [
+      "L",
+      "a",
+      "n",
+      "g",
+      "i",
+      "t"
+    ]
+  },
+  {
+    "index": 119,
+    "soal": "I am a province in Indonesia. I was composed by an object to look for when it was dark. If my initial letter is changed, then my job is done.",
+    "jawaban": [
+      "L",
+      "a",
+      "m",
+      "p",
+      "u",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 120,
+    "soal": "I have a large size. In some films, I am also a scary character.",
+    "jawaban": [
+      "R",
+      "a",
+      "k",
+      "s",
+      "a",
+      "s",
+      "a"
+    ]
+  },
+  {
+    "index": 121,
+    "soal": "I'm a country. I have the largest population in the world.",
+    "jawaban": [
+      "C",
+      "h",
+      "i",
+      "n",
+      "a"
+    ]
+  },
+  {
+    "index": 122,
+    "soal": "I am a building. I'm a triangle. I was used as a burial place for Pharaoh.",
+    "jawaban": [
+      "P",
+      "i",
+      "r",
+      "a",
+      "m",
+      "i",
+      "d",
+      "a"
+    ]
+  },
+  {
+    "index": 123,
+    "soal": "I'm a kind of monkey. I am a protected animal. I come from Kalimantan and Sumatra.",
+    "jawaban": [
+      "O",
+      "r",
+      "a",
+      "n",
+      "g",
+      "u",
+      "t",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 124,
+    "soal": "Aku is a type of fruit, usually grated to make coconut milk.",
+    "jawaban": [
+      "K",
+      "e",
+      "l",
+      "a",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "index": 125,
+    "soal": "I am the ocean. I am the largest ocean in the world.",
+    "jawaban": [
+      "P",
+      "a",
+      "s",
+      "i",
+      "f",
+      "i",
+      "k"
+    ]
+  },
+  {
+    "index": 126,
+    "soal": "I'm one part of the body. My place is on the face.",
+    "jawaban": [
+      "H",
+      "i",
+      "d",
+      "u",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 127,
+    "soal": "I am a planet. I'm very far from earth. I'm the sixth planet from the sun.",
+    "jawaban": [
+      "S",
+      "a",
+      "t",
+      "u",
+      "r",
+      "n",
+      "u",
+      "s"
+    ]
+  },
+  {
+    "index": 128,
+    "soal": "I am a currency. I usually use it to make payments. I am virtual currency.",
+    "jawaban": [
+      "B",
+      "i",
+      "t",
+      "c",
+      "o",
+      "i",
+      "n"
+    ]
+  },
+  {
+    "index": 129,
+    "soal": "I'm made of cloth. I can absorb water. I use it to dry off after showering.",
+    "jawaban": [
+      "H",
+      "a",
+      "n",
+      "d",
+      "u",
+      "k"
+    ]
+  },
+  {
+    "index": 130,
+    "soal": "My size is very small like a grain of sand. I taste very sweet. I am made from sugar cane.",
+    "jawaban": [
+      "G",
+      "u",
+      "l",
+      "a"
+    ]
+  },
+  {
+    "index": 131,
+    "soal": "I am a staple food. I am in the form of a small grain. My color is white.",
+    "jawaban": [
+      "N",
+      "a",
+      "s",
+      "i"
+    ]
+  },
+  {
+    "index": 132,
+    "soal": "I am a city. I am part of the Unitary State of the Republic of Indonesia, I am located in the northernmost part of Indonesia.",
+    "jawaban": [
+      "S",
+      "a",
+      "b",
+      "a",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 133,
+    "soal": "I'm part of the body. Aku is the name for the thumb and toe.",
+    "jawaban": [
+      "J",
+      "e",
+      "m",
+      "p",
+      "o",
+      "l"
+    ]
+  },
+  {
+    "index": 134,
+    "soal": "I'm a kind of musical instrument. I come from the Sundanese community. I'm made of bamboo.",
+    "jawaban": [
+      "A",
+      "n",
+      "g",
+      "k",
+      "l",
+      "u",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 135,
+    "soal": "I'm a kind of artist. I'm very famous. I come from Ponorogo.",
+    "jawaban": [
+      "R",
+      "e",
+      "o",
+      "g"
+    ]
+  },
+  {
+    "index": 136,
+    "soal": "I'm a kind of food. Usually I make sago porridge. I come from Maluku and Papua.",
+    "jawaban": [
+      "P",
+      "a",
+      "p",
+      "e",
+      "d",
+      "a"
+    ]
+  },
+  {
+    "index": 137,
+    "soal": "I am a martial art. I come from Japan.",
+    "jawaban": [
+      "K",
+      "a",
+      "r",
+      "a",
+      "t",
+      "e"
+    ]
+  },
+  {
+    "index": 138,
+    "soal": "I am a traditional dance. I come from China. Usually I wear a costume that resembles a lion or dragon.",
+    "jawaban": [
+      "B",
+      "a",
+      "r",
+      "o",
+      "n",
+      "g",
+      "s",
+      "a",
+      "i"
+    ]
+  },
+  {
+    "index": 139,
+    "soal": "I am a language. I is the official language of the Philippines.",
+    "jawaban": [
+      "Q",
+      "a",
+      "g",
+      "a",
+      "l",
+      "o",
+      "g"
+    ]
+  },
+  {
+    "index": 140,
+    "soal": "I am a continent that covers the South Pole of the earth. I have a very low temperature.",
+    "jawaban": [
+      "A",
+      "n",
+      "t",
+      "a",
+      "r",
+      "t",
+      "i",
+      "k",
+      "a"
+    ]
+  },
+  {
+    "index": 141,
+    "soal": "I is the name for a biological relative. I am the father of each of our parents.",
+    "jawaban": [
+      "K",
+      "a",
+      "k",
+      "e",
+      "k"
+    ]
+  },
+  {
+    "index": 142,
+    "soal": "I am a female creature. I'm beautiful. I come from heaven.",
+    "jawaban": [
+      "B",
+      "i",
+      "d",
+      "a",
+      "d",
+      "a",
+      "r",
+      "i"
+    ]
+  },
+  {
+    "index": 143,
+    "soal": "I am a kind of building. I am usually used as a place for humans to live.",
+    "jawaban": [
+      "R",
+      "u",
+      "m",
+      "a",
+      "h"
+    ]
+  },
+  {
+    "index": 144,
+    "soal": "I am in the form of dry granules. I am processed from rice.",
+    "jawaban": [
+      "B",
+      "e",
+      "r",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "index": 145,
+    "soal": "I can't walk on land. Especially at sea. I like going through the clouds. I can bring many people.",
+    "jawaban": [
+      "P",
+      "e",
+      "s",
+      "a",
+      "w",
+      "a",
+      "t"
+    ]
+  },
+  {
+    "index": 146,
+    "soal": "Always put me in the corner. I'm in a right triangle. I'm also always at home.",
+    "jawaban": [
+      "S",
+      "u",
+      "d",
+      "u",
+      "t"
+    ]
+  },
+  {
+    "index": 147,
+    "soal": "My body is full of thorns. People prefer me when it's red. I symbolize the feeling of love.",
+    "jawaban": [
+      "m",
+      "a",
+      "w",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 148,
+    "soal": "I am a stationery. I'm white. I'm rectangular. I'm destroyed when I hit the water.",
+    "jawaban": [
+      "B",
+      "u",
+      "k",
+      "u"
+    ]
+  },
+  {
+    "index": 149,
+    "soal": "My body is mostly made of iron. I always cut. If half of my body is gone, then I'm no longer useful.",
+    "jawaban": [
+      "G",
+      "u",
+      "n",
+      "t",
+      "i",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 150,
+    "soal": "My body is tiny. When you open it you will see a cute round tip. I really like being sucked, especially children.",
+    "jawaban": [
+      "L",
+      "o",
+      "l",
+      "i",
+      "p",
+      "o",
+      "p"
+    ]
+  },
+  {
+    "index": 151,
+    "soal": "Guess who I am? I am an animal. I can fly. I'm so beautiful. I'm a sucker for flowers.",
+    "jawaban": [
+      "K",
+      "u",
+      "p",
+      "u"
+    ]
+  },
+  {
+    "index": 152,
+    "soal": "My shape is small black. I taste a little salty. I often make it into snacks.",
+    "jawaban": [
+      "K",
+      "u",
+      "a",
+      "c",
+      "i"
+    ]
+  },
+  {
+    "index": 153,
+    "soal": "I am not a liquid, nor a solid. If I appear around me there will definitely be a scene.",
+    "jawaban": [
+      "K",
+      "e",
+      "n",
+      "t",
+      "u",
+      "t"
+    ]
+  },
+  {
+    "index": 154,
+    "soal": "My body is full of thorns, but I am not a fruit. Women really like me.",
+    "jawaban": [
+      "m",
+      "a",
+      "w",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 155,
+    "soal": "I'm made of iron. I'm used to eating. My partner is a fork.",
+    "jawaban": [
+      "S",
+      "e",
+      "n",
+      "d",
+      "o",
+      "k"
+    ]
+  },
+  {
+    "index": 156,
+    "soal": "I speak out when there is danger. I also like to wake up sleeping people. My voice is quite loud.",
+    "jawaban": [
+      "A",
+      "l",
+      "a",
+      "r",
+      "m"
+    ]
+  },
+  {
+    "index": 157,
+    "soal": "I'm still very young. My shape is small and cute. I'm so adorable.",
+    "jawaban": [
+      "B",
+      "a",
+      "y",
+      "i"
+    ]
+  },
+  {
+    "index": 158,
+    "soal": "My shape is round. My size varies. I am always rolled, thrown, even kicked.",
+    "jawaban": [
+      "B",
+      "o",
+      "l",
+      "a"
+    ]
+  },
+  {
+    "index": 159,
+    "soal": "I have various shapes. I like children. I am easily damaged by sharp or hot objects.",
+    "jawaban": [
+      "B",
+      "a",
+      "l",
+      "o",
+      "n"
+    ]
+  },
+  {
+    "index": 160,
+    "soal": "My shape is long. My body color is orange, it is said that rabbits really like me.",
+    "jawaban": [
+      "W",
+      "o",
+      "r",
+      "t",
+      "e",
+      "l"
+    ]
+  },
+  {
+    "index": 161,
+    "soal": "I always help people carry things. My size varies. I am positioned on the back of the person I am helping.",
+    "jawaban": [
+      "R",
+      "a",
+      "n",
+      "s",
+      "e",
+      "l"
+    ]
+  },
+  {
+    "index": 162,
+    "soal": "My body is colorful. I appeared after the rain fell. My shape is beautifully curved.",
+    "jawaban": [
+      "P",
+      "e",
+      "l",
+      "a",
+      "n",
+      "g",
+      "i"
+    ]
+  },
+  {
+    "index": 163,
+    "soal": "I'm liked by many people. I have a bright light, but only briefly. I capture important moments.",
+    "jawaban": [
+      "K",
+      "a",
+      "m",
+      "e",
+      "r",
+      "a"
+    ]
+  },
+  {
+    "index": 164,
+    "soal": "My shape is long and slightly curved. I have green and yellow. They say I like monkeys.",
+    "jawaban": [
+      "P",
+      "i",
+      "s",
+      "a",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 165,
+    "soal": "I'm in gas form. I exist if there is water and fire.",
+    "jawaban": [
+      "U",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "index": 166,
+    "soal": "I'm from the animal group. I'm almost extinct. Shape me like a giant lizard.",
+    "jawaban": [
+      "K",
+      "o",
+      "m",
+      "o",
+      "d",
+      "o"
+    ]
+  },
+  {
+    "index": 167,
+    "soal": "I'm a relic of the past. I am made of majestic and large stone. I am located near Yogyakarta.",
+    "jawaban": [
+      "B",
+      "o",
+      "r",
+      "o",
+      "b",
+      "u",
+      "d",
+      "u",
+      "r"
+    ]
+  },
+  {
+    "index": 168,
+    "soal": "My body is tiny. I live in a group. I produce a sweet liquid.",
+    "jawaban": [
+      "L",
+      "e",
+      "b",
+      "a",
+      "h"
+    ]
+  },
+  {
+    "index": 169,
+    "soal": "Many people find it very difficult to define me. I can also make people happy and even very sad.",
+    "jawaban": [
+      "C",
+      "i",
+      "n",
+      "t",
+      "a"
+    ]
+  },
+  {
+    "index": 170,
+    "soal": "I'm a weapon. My body is big and long. I have bullets that are round, big, and heavy.",
+    "jawaban": [
+      "m",
+      "e",
+      "r",
+      "i",
+      "a",
+      "m"
+    ]
+  },
+  {
+    "index": 171,
+    "soal": "I'm a means of transportation. My wheels are made of wood. I have to be pulled by a horse.",
+    "jawaban": [
+      "A",
+      "n",
+      "d",
+      "o",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 172,
+    "soal": "I'm some kind of animal. My body is hairy and very cute. People often make me their friend.",
+    "jawaban": [
+      "K",
+      "u",
+      "c",
+      "i",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 173,
+    "soal": "I have an elongated top shape. My bottom is circular. I can hold water.",
+    "jawaban": [
+      "B",
+      "o",
+      "t",
+      "o",
+      "l"
+    ]
+  },
+  {
+    "index": 174,
+    "soal": "I am fruit. Mine is round. I'm just in the desert.",
+    "jawaban": [
+      "K",
+      "u",
+      "r",
+      "m",
+      "a"
+    ]
+  },
+  {
+    "index": 175,
+    "soal": "I'm made of wood. Every house must have me. I can be opened and closed.",
+    "jawaban": [
+      "P",
+      "i",
+      "n",
+      "t",
+      "u"
+    ]
+  },
+  {
+    "index": 176,
+    "soal": "I'm made of iron. There are 2 wheels on the bottom of me. I can be used by pedaling.",
+    "jawaban": [
+      "S",
+      "e",
+      "p",
+      "e",
+      "d",
+      "a"
+    ]
+  },
+  {
+    "index": 177,
+    "soal": "I'm made of cloth. I always installed at the window.",
+    "jawaban": [
+      "G",
+      "o",
+      "r",
+      "d",
+      "e",
+      "n"
+    ]
+  },
+  {
+    "index": 178,
+    "soal": "I'm usually made of iron, wood, or wall. I'm always installed around the house.",
+    "jawaban": [
+      "P",
+      "a",
+      "g",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 179,
+    "soal": "I'm part of the plant. I am the part where photosynthesis occurs.",
+    "jawaban": [
+      "D",
+      "a",
+      "u",
+      "n"
+    ]
+  },
+  {
+    "index": 180,
+    "soal": "I'm gas. I am always needed by all living creatures.",
+    "jawaban": [
+      "O",
+      "k",
+      "s",
+      "i",
+      "g",
+      "e",
+      "n"
+    ]
+  },
+  {
+    "index": 181,
+    "soal": "I am liquid, usually my color is black. I became one with the printer.",
+    "jawaban": [
+      "Q",
+      "i",
+      "n",
+      "t",
+      "a"
+    ]
+  },
+  {
+    "index": 182,
+    "soal": "I'm made of iron. I'm small and long. There's always a hole in one end of mine.",
+    "jawaban": [
+      "J",
+      "a",
+      "r",
+      "u",
+      "m"
+    ]
+  },
+  {
+    "index": 183,
+    "soal": "I really help students in calculating. I'm very good at calculating. Inside me are the numbers 1-9.",
+    "jawaban": [
+      "K",
+      "a",
+      "l",
+      "k",
+      "u",
+      "l",
+      "a",
+      "t",
+      "o",
+      "r"
+    ]
+  },
+  {
+    "index": 184,
+    "soal": "I'm an animal. Usually I'm in the forest. My body is full of thorns.",
+    "jawaban": [
+      "L",
+      "a",
+      "n",
+      "d",
+      "a",
+      "k"
+    ]
+  },
+  {
+    "index": 185,
+    "soal": "When I was young I was tall. When I was old I was short.",
+    "jawaban": [
+      "L",
+      "i",
+      "l",
+      "i",
+      "n"
+    ]
+  },
+  {
+    "index": 186,
+    "soal": "I can increase, but I cannot decrease.",
+    "jawaban": [
+      "U",
+      "m",
+      "u",
+      "r"
+    ]
+  },
+  {
+    "index": 187,
+    "soal": "I'm light as a feather, but the strongest man couldn't hold me for more than five minutes.",
+    "jawaban": [
+      "N",
+      "a",
+      "f",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "index": 188,
+    "soal": "I can be held but not touched.",
+    "jawaban": [
+      "J",
+      "a",
+      "n",
+      "j",
+      "i"
+    ]
+  },
+  {
+    "index": 189,
+    "soal": "I'm part bird but can't fly, but I can be in the ocean without getting wet.",
+    "jawaban": [
+      "B",
+      "a",
+      "y",
+      "a",
+      "n",
+      "g",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 190,
+    "soal": "I have a lot of holes but I can store water.",
+    "jawaban": [
+      "S",
+      "p",
+      "o",
+      "n",
+      "g",
+      "e"
+    ]
+  },
+  {
+    "index": 191,
+    "soal": "I lose my head in the morning and have it again at night.",
+    "jawaban": [
+      "B",
+      "a",
+      "n",
+      "t",
+      "a",
+      "l"
+    ]
+  },
+  {
+    "index": 192,
+    "soal": "I always get stepped on. I was also stroked.",
+    "jawaban": [
+      "Q",
+      "a",
+      "n",
+      "g",
+      "g",
+      "a"
+    ]
+  },
+  {
+    "index": 193,
+    "soal": "Guess who I am? I have wings. My wings are connected to my legs. I really like doing activities at night.",
+    "jawaban": [
+      "K",
+      "e",
+      "l",
+      "e",
+      "l",
+      "a",
+      "w",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 194,
+    "soal": "I'm some kind of animal. My teeth are sharp. I'm very fierce on bad people. I was chosen by humans to look after him.",
+    "jawaban": [
+      "A",
+      "n",
+      "j",
+      "i",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 195,
+    "soal": "I always get cut but keep growing. Usually I'm on my hands and feet.",
+    "jawaban": [
+      "K",
+      "u",
+      "k",
+      "u"
+    ]
+  },
+  {
+    "index": 196,
+    "soal": "I can entertain people. I'm usually at the karaoke place. I have the rhythm and the lyrics.",
+    "jawaban": [
+      "L",
+      "a",
+      "g",
+      "u"
+    ]
+  },
+  {
+    "index": 197,
+    "soal": "I am something that is often enjoyed during rest hours, generally at night. I'm usually soft.",
+    "jawaban": [
+      "K",
+      "a",
+      "s",
+      "u",
+      "r"
+    ]
+  },
+  {
+    "index": 198,
+    "soal": "I'm number three, but not a number. I'll be hot and cold at the same time, but not at the same time. Everyone is close to me, but not everyone knows my name.",
+    "jawaban": [
+      "B",
+      "u",
+      "m",
+      "i"
+    ]
+  },
+  {
+    "index": 199,
+    "soal": "I'm kind of fruity. My appearance is round, yellow, green. The taste is sweet, there is sour, and it tastes fresh when hot.",
+    "jawaban": [
+      "J",
+      "e",
+      "r",
+      "u",
+      "k"
+    ]
+  },
+  {
+    "index": 200,
+    "soal": "I have a bad smell. My body is full of thorns, but inside my body I have delicious yellow flesh.",
+    "jawaban": [
+      "D",
+      "u",
+      "r",
+      "i",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 201,
+    "soal": "When I am pressed, I display the word. When I combine, I bring out interesting things.",
+    "jawaban": [
+      "K",
+      "e",
+      "y",
+      "b",
+      "o",
+      "a",
+      "r",
+      "d"
+    ]
+  },
+  {
+    "index": 202,
+    "soal": "I have a black and white place. I have a king and I also have opponents attacking each other.",
+    "jawaban": [
+      "C",
+      "a",
+      "t",
+      "u",
+      "r"
+    ]
+  },
+  {
+    "index": 203,
+    "soal": "I am an object that is often used to swipe and click.",
+    "jawaban": [
+      "m",
+      "o",
+      "u",
+      "s",
+      "e"
+    ]
+  },
+  {
+    "index": 204,
+    "soal": "I have various colors, I have various shapes too. Everyone likes me. I identify with a woman.",
+    "jawaban": [
+      "B",
+      "u",
+      "n",
+      "g",
+      "a"
+    ]
+  },
+  {
+    "index": 205,
+    "soal": "Mine is white, there is also brown and liquid and full of nutrition. I am also useful for children and adults.",
+    "jawaban": [
+      "S",
+      "u",
+      "s",
+      "u"
+    ]
+  },
+  {
+    "index": 206,
+    "soal": "I came suddenly and in droves.",
+    "jawaban": [
+      "H",
+      "u",
+      "j",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 207,
+    "soal": "I have a small body. I also always group in large numbers. In any case, we always work together. The food I like smells sweet.",
+    "jawaban": [
+      "S",
+      "e",
+      "m",
+      "u",
+      "t"
+    ]
+  },
+  {
+    "index": 208,
+    "soal": "I have a round body. My colors are green, yellow, and red when I'm ripe. I usually use it as a cooking ingredient or eat it directly.",
+    "jawaban": [
+      "Q",
+      "o",
+      "m",
+      "a",
+      "t"
+    ]
+  },
+  {
+    "index": 209,
+    "soal": "I live underground. But my stems live outside and my leaves like to be eaten.",
+    "jawaban": [
+      "S",
+      "i",
+      "n",
+      "g",
+      "k",
+      "o",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 210,
+    "soal": "Mine is long, curly, boiled, with spices and eaten straight away.",
+    "jawaban": [
+      "m",
+      "i",
+      "e"
+    ]
+  },
+  {
+    "index": 211,
+    "soal": "I keep it in my pocket, there is a place for cards, money, bills. I often take it everywhere.",
+    "jawaban": [
+      "D",
+      "o",
+      "m",
+      "p",
+      "e",
+      "t"
+    ]
+  },
+  {
+    "index": 212,
+    "soal": "I put it on my fingers. I'm usually made for engagements or weddings. I'm gold, silver, or bronze.",
+    "jawaban": [
+      "C",
+      "i",
+      "n",
+      "c",
+      "i",
+      "n"
+    ]
+  },
+  {
+    "index": 213,
+    "soal": "I put it on my neck. My size is big or small. I'm colorful. I identify with women.",
+    "jawaban": [
+      "K",
+      "a",
+      "l",
+      "u",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 214,
+    "soal": "I am paper, but I am used as a daily necessity that has a nominal value.",
+    "jawaban": [
+      "U",
+      "a",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 215,
+    "soal": "I'm a thick-skinned, gray animal. I have horns.",
+    "jawaban": [
+      "B",
+      "a",
+      "d",
+      "a",
+      "k"
+    ]
+  },
+  {
+    "index": 216,
+    "soal": "I am found at the bottom of a tree or plant. I stuck to the ground.",
+    "jawaban": [
+      "A",
+      "k",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 217,
+    "soal": "I'm a very wide place, planes always come to visit me. I'm also very busy and never close. I am much sought after by transportation users to travel between countries.",
+    "jawaban": [
+      "B",
+      "a",
+      "n",
+      "d",
+      "a",
+      "r",
+      "a"
+    ]
+  },
+  {
+    "index": 218,
+    "soal": "I am the result of fermented milk. I taste sour. I have yellow.",
+    "jawaban": [
+      "K",
+      "e",
+      "j",
+      "u"
+    ]
+  },
+  {
+    "index": 219,
+    "soal": "I am a vehicle. I usually take people to various islands. I can't function when I'm on land.",
+    "jawaban": [
+      "P",
+      "e",
+      "r",
+      "a",
+      "h",
+      "u"
+    ]
+  },
+  {
+    "index": 220,
+    "soal": "I am the basic material for making clothes. I'm thin and smooth. I bought it per meter.",
+    "jawaban": [
+      "K",
+      "a",
+      "i",
+      "n"
+    ]
+  },
+  {
+    "index": 221,
+    "soal": "I used to tidy up. I can make hair interesting.",
+    "jawaban": [
+      "S",
+      "i",
+      "s",
+      "i",
+      "r"
+    ]
+  },
+  {
+    "index": 222,
+    "soal": "My main job is to shred food. I have a pointed shape. I was in the mouth.",
+    "jawaban": [
+      "Q",
+      "a",
+      "r",
+      "i",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 223,
+    "soal": "I have a bitter taste, but I am very much needed by sick people.",
+    "jawaban": [
+      "O",
+      "b",
+      "a",
+      "t"
+    ]
+  },
+  {
+    "index": 224,
+    "soal": "I am in the mountains, in the proverb I am also associated with saving.",
+    "jawaban": [
+      "B",
+      "u",
+      "k",
+      "i",
+      "t"
+    ]
+  },
+  {
+    "index": 225,
+    "soal": "I have a tube shape. I can hold quite a lot of oil.",
+    "jawaban": [
+      "D",
+      "r",
+      "u",
+      "m"
+    ]
+  },
+  {
+    "index": 226,
+    "soal": "I produce my own light. If you look at me from earth, I'm very small.",
+    "jawaban": [
+      "B",
+      "i",
+      "n",
+      "t",
+      "a",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 227,
+    "soal": "My main job is to train.",
+    "jawaban": [
+      "P",
+      "e",
+      "l",
+      "a",
+      "t",
+      "i",
+      "h"
+    ]
+  },
+  {
+    "index": 228,
+    "soal": "I have a very hot temper. I come from a volcano.",
+    "jawaban": [
+      "L",
+      "a",
+      "h",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 229,
+    "soal": "I'm in a mountainous area. I can reduce the driver's view. I often show up in the morning.",
+    "jawaban": [
+      "K",
+      "a",
+      "b",
+      "u",
+      "t"
+    ]
+  },
+  {
+    "index": 230,
+    "soal": "Guess who I am? I was in the neck. I was also in a shirt. I'll be neat when folded.",
+    "jawaban": [
+      "K",
+      "e",
+      "r",
+      "a",
+      "h"
+    ]
+  },
+  {
+    "index": 231,
+    "soal": "I'm an omnivore. I'm also an invertebrate. I can lift up to three times their body weight. I'm smaller than a paper clip.",
+    "jawaban": [
+      "S",
+      "e",
+      "m",
+      "u",
+      "t"
+    ]
+  },
+  {
+    "index": 232,
+    "soal": "I'm the only winged mammal. I live in tropical and temperate areas. My diet can vary from fruit, pollen, and nectar, to the blood of other animals.",
+    "jawaban": [
+      "K",
+      "e",
+      "l",
+      "e",
+      "l",
+      "a",
+      "w",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 233,
+    "soal": "I'm an invertebrate. I live along the coast. I have two claws to protect myself.",
+    "jawaban": [
+      "K",
+      "e",
+      "p",
+      "i",
+      "t",
+      "i",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 234,
+    "soal": "I am the largest land mammal. I eat up to 350 pounds a day. I have a long nose.",
+    "jawaban": [
+      "G",
+      "a",
+      "j",
+      "a",
+      "h"
+    ]
+  },
+  {
+    "index": 235,
+    "soal": "I can't be burned. I also can't be submerged in water.",
+    "jawaban": [
+      "E",
+      "s"
+    ]
+  },
+  {
+    "index": 236,
+    "soal": "I'm easily wasted and yet can't be stopped.",
+    "jawaban": [
+      "W",
+      "a",
+      "k",
+      "t",
+      "u"
+    ]
+  },
+  {
+    "index": 237,
+    "soal": "I lose my head in the morning and gain it back in the evening.",
+    "jawaban": [
+      "B",
+      "a",
+      "n",
+      "t",
+      "a",
+      "l"
+    ]
+  },
+  {
+    "index": 238,
+    "soal": "I am a way to say goodbye to a lover or relative.",
+    "jawaban": [
+      "P",
+      "e",
+      "l",
+      "u",
+      "k"
+    ]
+  },
+  {
+    "index": 239,
+    "soal": "I am an essential mineral for your health.",
+    "jawaban": [
+      "V",
+      "i",
+      "t",
+      "a",
+      "m",
+      "i",
+      "n"
+    ]
+  },
+  {
+    "index": 240,
+    "soal": "I can run up to 35 miles per hour. I eat hundreds of pounds of leaves a week. My height helps me to be wary of predators. I am the highest mammal.",
+    "jawaban": [
+      "J",
+      "e",
+      "r",
+      "a",
+      "p",
+      "a",
+      "h"
+    ]
+  },
+  {
+    "index": 241,
+    "soal": "I like to twist but keep my head up. Once I got in, I got tight.",
+    "jawaban": [
+      "S",
+      "e",
+      "k",
+      "r",
+      "u",
+      "p"
+    ]
+  },
+  {
+    "index": 242,
+    "soal": "I'm a mammal. I'm also a herbivore. When I'm scared, I'll run. I have big ears to help me hear.",
+    "jawaban": [
+      "K",
+      "e",
+      "l",
+      "i",
+      "n",
+      "c",
+      "i"
+    ]
+  },
+  {
+    "index": 243,
+    "soal": "I'm a mammal. I'm also a carnivore. I hunt at night. I am the biggest and strongest cat.",
+    "jawaban": [
+      "H",
+      "a",
+      "r",
+      "i",
+      "m",
+      "a",
+      "u"
+    ]
+  },
+  {
+    "index": 244,
+    "soal": "I'm an invertebrate. I absorb oxygen and release carbon. I lived most of my life underground.",
+    "jawaban": [
+      "C",
+      "a",
+      "c",
+      "i",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 245,
+    "soal": "I am higher than the king.",
+    "jawaban": [
+      "m",
+      "a",
+      "h",
+      "k",
+      "o",
+      "t",
+      "a"
+    ]
+  },
+  {
+    "index": 246,
+    "soal": "I fly, but I don't have wings. I cried, but I had no eyes. I can make the sky dark and light.",
+    "jawaban": [
+      "A",
+      "w",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 247,
+    "soal": "I have feet in my head.",
+    "jawaban": [
+      "K",
+      "u",
+      "t",
+      "u"
+    ]
+  },
+  {
+    "index": 248,
+    "soal": "I am a mini solar powered computer.",
+    "jawaban": [
+      "K",
+      "a",
+      "l",
+      "k",
+      "u",
+      "l",
+      "a",
+      "t",
+      "o",
+      "r"
+    ]
+  },
+  {
+    "index": 249,
+    "soal": "The shorter I am, the bigger I am.",
+    "jawaban": [
+      "S",
+      "u",
+      "h",
+      "u"
+    ]
+  },
+  {
+    "index": 250,
+    "soal": "I come from the sea and am white as snow. When I returned to the water, I was gone without a trace.",
+    "jawaban": [
+      "G",
+      "a",
+      "r",
+      "a",
+      "m"
+    ]
+  },
+  {
+    "index": 251,
+    "soal": "Guess who I am? I'm fast when I'm skinny. I'm slow when I'm fat. Wind is my worst nightmare. I'm very useful when it's pitch black.",
+    "jawaban": [
+      "L",
+      "i",
+      "l",
+      "i",
+      "n"
+    ]
+  },
+  {
+    "index": 252,
+    "soal": "I'm soft, furry, and close to the door. I'm the one who always stays on the floor.",
+    "jawaban": [
+      "K",
+      "e",
+      "s",
+      "e",
+      "t"
+    ]
+  },
+  {
+    "index": 253,
+    "soal": "I'm not a toy even though many people use me for fun. I have a butt, but I can't poop.",
+    "jawaban": [
+      "R",
+      "o",
+      "k",
+      "o",
+      "k"
+    ]
+  },
+  {
+    "index": 254,
+    "soal": "I can swim, but never get wet. I can run, but I never get bored. I followed you everywhere, but never said a word.",
+    "jawaban": [
+      "B",
+      "a",
+      "y",
+      "a",
+      "n",
+      "g",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 255,
+    "soal": "I see what you see, feel what you feel. I know all your moves before you do them. I even know the moves you didn't make.",
+    "jawaban": [
+      "O",
+      "t",
+      "a",
+      "k"
+    ]
+  },
+  {
+    "index": 256,
+    "soal": "I really tips. I can fall from a building and not be crushed, but in the water I will be crushed.",
+    "jawaban": [
+      "K",
+      "e",
+      "r",
+      "t",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "index": 257,
+    "soal": "I'm where the Titanic is right now.",
+    "jawaban": [
+      "A",
+      "t",
+      "l",
+      "a",
+      "n",
+      "t",
+      "i",
+      "k"
+    ]
+  },
+  {
+    "index": 258,
+    "soal": "You need thousands of me to create a digital image.",
+    "jawaban": [
+      "P",
+      "i",
+      "x",
+      "e",
+      "l"
+    ]
+  },
+  {
+    "index": 259,
+    "soal": "If you have me, you want to share me. Once you share me, you don't have me anymore.",
+    "jawaban": [
+      "R",
+      "a",
+      "h",
+      "a",
+      "s",
+      "i",
+      "a"
+    ]
+  },
+  {
+    "index": 260,
+    "soal": "Everyone needs me but they give me away every day.",
+    "jawaban": [
+      "U",
+      "a",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "index": 261,
+    "soal": "You throw me in the sea when you use me and take me in again when you're done.",
+    "jawaban": [
+      "J",
+      "a",
+      "n",
+      "g",
+      "k",
+      "a",
+      "r"
+    ]
+  },
+  {
+    "index": 262,
+    "soal": "I am a kind of bird. I have two eyes in the front and many eyes in my tail.",
+    "jawaban": [
+      "m",
+      "e",
+      "r",
+      "a",
+      "k"
+    ]
+  },
+  {
+    "index": 263,
+    "soal": "The faster you run, the harder it is to catch me.",
+    "jawaban": [
+      "N",
+      "a",
+      "f",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "index": 264,
+    "soal": "I used to cross the river. I'm on the water.",
+    "jawaban": [
+      "J",
+      "e",
+      "m",
+      "b",
+      "a",
+      "t",
+      "a",
+      "n"
+    ]
+  },
+  {
+    "index": 265,
+    "soal": "I am a small paradise surrounded by dryness and heat. I'm usually found in the desert.",
+    "jawaban": [
+      "O",
+      "a",
+      "s",
+      "i",
+      "s"
+    ]
+  },
+  {
+    "index": 266,
+    "soal": "I am a place in the afterlife filled with good people.",
+    "jawaban": [
+      "S",
+      "u",
+      "r",
+      "g",
+      "a"
+    ]
+  },
+  {
+    "index": 267,
+    "soal": "I have five siblings who have a mother but no father.",
+    "jawaban": [
+      "J",
+      "a",
+      "r",
+      "i"
+    ]
+  }
+]
