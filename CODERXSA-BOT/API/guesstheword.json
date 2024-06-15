@@ -1,0 +1,1512 @@
+[
+  {
+    "index": 0,
+    "soal": "Road, Siren, Sick Man, Fast",
+    "jawaban": "HUNTER"
+  },
+  {
+    "index": 4,
+    "soal": "Road, Siren, Sick Man, Fast",
+    "jawaban": "HUNTER"
+  },
+  {
+    "index": 2,
+    "soal": "Road, Siren, Sick Man, Fast",
+    "jawaban": "BADMINTON"
+  },
+  {
+    "index": 1,
+    "soal": "Road, Siren, Sick Man, Fast",
+    "jawaban": "FISHERMAN"
+  },
+  {
+    "index": 6,
+    "soal": "Road, Siren, Sick Man, Fast",
+    "jawaban": "TELEVISION"
+  },
+  {
+    "index": 7,
+    "soal": "Road, Siren, Sick Man, Fast",
+    "jawaban": "AMBULANCE"
+  },
+  {
+    "index": 3,
+    "soal": "Road, Siren, Sick Man, Fast",
+    "jawaban": "FISHERMAN"
+  },
+  {
+    "index": 5,
+    "soal": "Road, Siren, Sick Man, Fast",
+    "jawaban": "TELEVISION"
+  },
+  {
+    "index": 8,
+    "soal": "Cheese, Cow, Glass, Baby",
+    "jawaban": "MILK"
+  },
+  {
+    "index": 10,
+    "soal": "Object, Thief, Hand, Police, Key",
+    "jawaban": "HANDCUFFS"
+  },
+  {
+    "index": 9,
+    "soal": "Money, Pay, Pocket, ATM Card",
+    "jawaban": "WALLET"
+  },
+  {
+    "index": 11,
+    "soal": "Profession, Magnifying glass, Mystery",
+    "jawaban": "WALLET"
+  },
+  {
+    "index": 12,
+    "soal": "Objects, Sharp, Cut Fruit",
+    "jawaban": "KNIFE"
+  },
+  {
+    "index": 15,
+    "soal": "Living Creature, Matador, Horns",
+    "jawaban": "BULL"
+  },
+  {
+    "index": 13,
+    "soal": "Place, Hungry, Eat, Chef, Price List",
+    "jawaban": "SHOE"
+  },
+  {
+    "index": 14,
+    "soal": "Objects, Pair, Right, Left, Run",
+    "jawaban": "SHOE"
+  },
+  {
+    "index": 16,
+    "soal": "Place, Building, Sleeping, Keys, Reception",
+    "jawaban": "HOTEL"
+  },
+  {
+    "index": 18,
+    "soal": "Number, Date, Month, Year, Day",
+    "jawaban": "CALENDAR"
+  },
+  {
+    "index": 17,
+    "soal": "Ring, Championship, Hand, Sports",
+    "jawaban": "BOXING"
+  },
+  {
+    "index": 19,
+    "soal": "Activities, Water, Soap, Towels",
+    "jawaban": "BATHE"
+  },
+  {
+    "index": 20,
+    "soal": "Objects, Fragrance, Foam, Bath",
+    "jawaban": "SOAP"
+  },
+  {
+    "index": 21,
+    "soal": "Object, Sleep, Mattress, Long, Soft",
+    "jawaban": "ROLL"
+  },
+  {
+    "index": 23,
+    "soal": "Objects, Drink, Sick, Doctor, Pharmacy",
+    "jawaban": "DRUG"
+  },
+  {
+    "index": 22,
+    "soal": "Objects, Electricity, Flame, Switch",
+    "jawaban": "LIGHT"
+  },
+  {
+    "index": 24,
+    "soal": "Object, Pain, Doctor, Armpit, Degree",
+    "jawaban": "THERMOMETER"
+  },
+  {
+    "index": 25,
+    "soal": "Blood, Night, Itching, Creatures",
+    "jawaban": "MOSQUITO"
+  },
+  {
+    "index": 26,
+    "soal": "Country, Art, Football, Pizza, Pisa",
+    "jawaban": "ITALY"
+  },
+  {
+    "index": 27,
+    "soal": "Cave, Night, Dark, Living Creatures",
+    "jawaban": "BAT"
+  },
+  {
+    "index": 28,
+    "soal": "Coconut, Sand, Sea, Place",
+    "jawaban": "BEACH"
+  },
+  {
+    "index": 31,
+    "soal": "Origami, Sakura, Sumo, Sushi",
+    "jawaban": "JAPAN"
+  },
+  {
+    "index": 32,
+    "soal": "Woman, Lips, Red, Beauty",
+    "jawaban": "LIPSTICK"
+  },
+  {
+    "index": 29,
+    "soal": "Objects, Clowns, Kids, Birthday, Exploding",
+    "jawaban": "BALLOON"
+  },
+  {
+    "index": 30,
+    "soal": "Benda, Witch, Office Boy",
+    "jawaban": "BROOM"
+  },
+  {
+    "index": 33,
+    "soal": "King, Flesh, Forest, Fangs",
+    "jawaban": "LION"
+  },
+  {
+    "index": 34,
+    "soal": "Wallet, ATM, Bank",
+    "jawaban": "MONEY"
+  },
+  {
+    "index": 35,
+    "soal": "Numbers, Time, Hands, Hands",
+    "jawaban": "WATCH"
+  },
+  {
+    "index": 37,
+    "soal": "Cow, Sheep, Green, Field",
+    "jawaban": "GRASS"
+  },
+  {
+    "index": 36,
+    "soal": "Cook, Chef, Fire",
+    "jawaban": "GRASS"
+  },
+  {
+    "index": 38,
+    "soal": "Fried Chicken, Arabic, Gas Station, Katel",
+    "jawaban": "OIL"
+  },
+  {
+    "index": 39,
+    "soal": "Doors, Cupboards, Cars, Padlocks",
+    "jawaban": "KEY"
+  },
+  {
+    "index": 40,
+    "soal": "Caterpillars, Flowers, Animals",
+    "jawaban": "BUTTERFLY"
+  },
+  {
+    "index": 41,
+    "soal": "Cars, Motorbikes, Noise, Pollution",
+    "jawaban": "EXHAUST"
+  },
+  {
+    "index": 42,
+    "soal": "Judge, Nail",
+    "jawaban": "HAMMER"
+  },
+  {
+    "index": 43,
+    "soal": "Finger, Gift, Wedding, Couple",
+    "jawaban": "RING"
+  },
+  {
+    "index": 44,
+    "soal": "Rice, Meat, Chopsticks, Japanese",
+    "jawaban": "SUSHI"
+  },
+  {
+    "index": 45,
+    "soal": "Book, Don't Make Noise, Room, Reading",
+    "jawaban": "SUSHI"
+  },
+  {
+    "index": 46,
+    "soal": "Television, Battre, Halilintar, Tengangan",
+    "jawaban": "ELECTRICITY"
+  },
+  {
+    "index": 47,
+    "soal": "Driver, Road, Destination, Pay",
+    "jawaban": "TAXI"
+  },
+  {
+    "index": 48,
+    "soal": "Soy, Delicious, Cooking",
+    "jawaban": "SOY SAUCE"
+  },
+  {
+    "index": 49,
+    "soal": "Smell, Poop, Men, Women",
+    "jawaban": "TOILET"
+  },
+  {
+    "index": 50,
+    "soal": "Bamboo, China, Black, White, Cute",
+    "jawaban": "PANDA"
+  },
+  {
+    "index": 51,
+    "soal": "Morning, Bread, Milk",
+    "jawaban": "BREAKFAST"
+  },
+  {
+    "index": 53,
+    "soal": "Above, Respect, Country",
+    "jawaban": "FLAG"
+  },
+  {
+    "index": 54,
+    "soal": "Eye, Magnifier, Bacteria, Researcher",
+    "jawaban": "MICROSCOPE"
+  },
+  {
+    "index": 52,
+    "soal": "Above, Respect, Country",
+    "jawaban": "SPIDERMAN"
+  },
+  {
+    "index": 56,
+    "soal": "Tools, Vehicles, Repairs",
+    "jawaban": "MECHANIC"
+  },
+  {
+    "index": 55,
+    "soal": "Apollo, Moon",
+    "jawaban": "ASTRONAUTS"
+  },
+  {
+    "index": 59,
+    "soal": "Rat, Fish, Bell",
+    "jawaban": "CAT"
+  },
+  {
+    "index": 58,
+    "soal": "Bear, Bee, Flower",
+    "jawaban": "HONEY"
+  },
+  {
+    "index": 57,
+    "soal": "Cellphone, Remote, Plus, Minus, Toy",
+    "jawaban": "BATTERY"
+  },
+  {
+    "index": 62,
+    "soal": "Balloons, Cakes, Gifts, Candles",
+    "jawaban": "BIRTHDAY"
+  },
+  {
+    "index": 60,
+    "soal": "Medal, Trophy, No1, Win",
+    "jawaban": "CHAMPION"
+  },
+  {
+    "index": 61,
+    "soal": "Heat, Clothes, Electricity, Neat",
+    "jawaban": "IRON"
+  },
+  {
+    "index": 63,
+    "soal": "Motorcycle, Head, Rider",
+    "jawaban": "HELMET"
+  },
+  {
+    "index": 64,
+    "soal": "Airplane, Female, Friendly",
+    "jawaban": "AIR HOSTESS"
+  },
+  {
+    "index": 65,
+    "soal": "Smell, Stomach Pain, Noise",
+    "jawaban": "FART"
+  },
+  {
+    "index": 66,
+    "soal": "Iron, Sun, Fire, Hell",
+    "jawaban": "HOT"
+  },
+  {
+    "index": 67,
+    "soal": "Six, Point, Square, Shuffled",
+    "jawaban": "DICE"
+  },
+  {
+    "index": 69,
+    "soal": "Sweet, Ants, Toothache, Children",
+    "jawaban": "CANDY"
+  },
+  {
+    "index": 68,
+    "soal": "Colorful, Rain",
+    "jawaban": "RAINBOW"
+  },
+  {
+    "index": 71,
+    "soal": "Jump, Sac, Australia",
+    "jawaban": "KANGAROO"
+  },
+  {
+    "index": 70,
+    "soal": "Cars, motorbikes, noise, sounds",
+    "jawaban": "KANGAROO"
+  },
+  {
+    "index": 73,
+    "soal": "Eyes, Soup, Orange, Rabbit",
+    "jawaban": "CARROT"
+  },
+  {
+    "index": 74,
+    "soal": "Syringe, Needle, Red, Mosquito",
+    "jawaban": "BLOOD"
+  },
+  {
+    "index": 72,
+    "soal": "Diamonds, Gold, Maps, Secrets",
+    "jawaban": "TREASURE"
+  },
+  {
+    "index": 75,
+    "soal": "Salty, Sea, White, Cooking",
+    "jawaban": "SALT"
+  },
+  {
+    "index": 77,
+    "soal": "Waist, Length",
+    "jawaban": "BELT"
+  },
+  {
+    "index": 76,
+    "soal": "Nose, Oxygen, Chest, Breath",
+    "jawaban": "LUNGS"
+  },
+  {
+    "index": 78,
+    "soal": "Head, Medicine",
+    "jawaban": "Dizzy"
+  },
+  {
+    "index": 82,
+    "soal": "Green, Jump, Water, Land",
+    "jawaban": "DECEMBER"
+  },
+  {
+    "index": 81,
+    "soal": "12, Month, New Year, Christmas",
+    "jawaban": "DECEMBER"
+  },
+  {
+    "index": 79,
+    "soal": "Trash, Germs, Fly, Stomach ache",
+    "jawaban": "DECEMBER"
+  },
+  {
+    "index": 80,
+    "soal": "Robot, Japanese Cat",
+    "jawaban": "BAG"
+  },
+  {
+    "index": 83,
+    "soal": "Back, Seleting, Books",
+    "jawaban": "BAG"
+  },
+  {
+    "index": 85,
+    "soal": "White, Thin, Wipe, Toilet",
+    "jawaban": "TISSUE"
+  },
+  {
+    "index": 84,
+    "soal": "Camel, Pyramid, Cactus, Dry",
+    "jawaban": "DESERT"
+  },
+  {
+    "index": 86,
+    "soal": "Up and Down, Jackets, Pants, Bags",
+    "jawaban": "ZIPPER"
+  },
+  {
+    "index": 89,
+    "soal": "Milk, Teeth, Paper",
+    "jawaban": "WHITE"
+  },
+  {
+    "index": 91,
+    "soal": "UFOs, Planets",
+    "jawaban": "WHITE"
+  },
+  {
+    "index": 88,
+    "soal": "Pair, Hearing",
+    "jawaban": "WATER"
+  },
+  {
+    "index": 90,
+    "soal": "Nose, Long, Lie, Wood",
+    "jawaban": "PINOKIO"
+  },
+  {
+    "index": 87,
+    "soal": "Pair, Hearing",
+    "jawaban": "WATER"
+  },
+  {
+    "index": 93,
+    "soal": "Up, Down, Feet",
+    "jawaban": "LADDER"
+  },
+  {
+    "index": 94,
+    "soal": "Head, Scorching, Beach",
+    "jawaban": "HAT"
+  },
+  {
+    "index": 92,
+    "soal": "Hearing, Sound, Long Distance",
+    "jawaban": "TELEPHONE"
+  },
+  {
+    "index": 96,
+    "soal": "Sleep, Brisik",
+    "jawaban": "SNORING"
+  },
+  {
+    "index": 97,
+    "soal": "North, South, Compass, Stick",
+    "jawaban": "MAGNETS"
+  },
+  {
+    "index": 95,
+    "soal": "Birds, Planes, Mosquitoes, Superman",
+    "jawaban": "TRAIN"
+  },
+  {
+    "index": 99,
+    "soal": "Reading, Eyes, Letters",
+    "jawaban": "GLASSES"
+  },
+  {
+    "index": 98,
+    "soal": "Machinist, Pluit, Ticket, Rail",
+    "jawaban": "TRAIN"
+  },
+  {
+    "index": 100,
+    "soal": "Ball, Hands, Goal",
+    "jawaban": "GOALKEEPER"
+  },
+  {
+    "index": 101,
+    "soal": "Taj Mahal, Bajaj, Snake, Elephant",
+    "jawaban": "INDIA"
+  },
+  {
+    "index": 102,
+    "soal": "Cards, Sticks, Rabbits, Birds",
+    "jawaban": "MAGIC"
+  },
+  {
+    "index": 103,
+    "soal": "Paper, Birds, Axes, Oxygen",
+    "jawaban": "TREE"
+  },
+  {
+    "index": 104,
+    "soal": "Sharp, Fish, Dangerous",
+    "jawaban": "PIRANHA"
+  },
+  {
+    "index": 105,
+    "soal": "Type, Finger, Computer, Letter",
+    "jawaban": "KEYBOARDS"
+  },
+  {
+    "index": 107,
+    "soal": "Steering Wheel, Wheels, Donuts",
+    "jawaban": "CIRCLE"
+  },
+  {
+    "index": 106,
+    "soal": "Mouth, Plastic, Long, Drink",
+    "jawaban": "STRAW"
+  },
+  {
+    "index": 108,
+    "soal": "Yellow, Monkey",
+    "jawaban": "BANANA"
+  },
+  {
+    "index": 109,
+    "soal": "Fire, Blow, Cake",
+    "jawaban": "CANDLE"
+  },
+  {
+    "index": 112,
+    "soal": "Food, Italian, Round, Grilled",
+    "jawaban": "PIZZA"
+  },
+  {
+    "index": 111,
+    "soal": "Cowboy, Poultice, Grass",
+    "jawaban": "HORSE"
+  },
+  {
+    "index": 110,
+    "soal": "Propeller, Pilot, Cloud",
+    "jawaban": "AIRCRAFT"
+  },
+  {
+    "index": 114,
+    "soal": "Duck, Chicken, Round",
+    "jawaban": "EGG"
+  },
+  {
+    "index": 115,
+    "soal": "Water, Tap, Long",
+    "jawaban": "EGG"
+  },
+  {
+    "index": 113,
+    "soal": "Cheese, Windmills, Tulips",
+    "jawaban": "DUTCH"
+  },
+  {
+    "index": 116,
+    "soal": "Mucus, Nose, Congestion, Tissue",
+    "jawaban": "HAVE A COLD"
+  },
+  {
+    "index": 117,
+    "soal": "Shoots, Drinks",
+    "jawaban": "TEA"
+  },
+  {
+    "index": 119,
+    "soal": "Baby, Pee, Soft",
+    "jawaban": "DIAPER"
+  },
+  {
+    "index": 118,
+    "soal": "Wallet, Identity, Address, Telephone",
+    "jawaban": "NAME CARD"
+  },
+  {
+    "index": 120,
+    "soal": "Flash, Photo, Lens",
+    "jawaban": "CAMERA"
+  },
+  {
+    "index": 121,
+    "soal": "Thin, Delicate, Needle",
+    "jawaban": "THREAD"
+  },
+  {
+    "index": 123,
+    "soal": "Shirts, Pants, Jackets",
+    "jawaban": "CLOTHES"
+  },
+  {
+    "index": 122,
+    "soal": "Objects, Strings, Picks",
+    "jawaban": "GUITAR"
+  },
+  {
+    "index": 124,
+    "soal": "Objects, Moving, Machines",
+    "jawaban": "ROBOT"
+  },
+  {
+    "index": 127,
+    "soal": "Art, Displayed, Wall, Aesthetic",
+    "jawaban": "PAINTING"
+  },
+  {
+    "index": 125,
+    "soal": "Vehicles, 3 Wheelers, Cars",
+    "jawaban": "BAJAJ"
+  },
+  {
+    "index": 126,
+    "soal": "Bachelor, Hajj, Master",
+    "jawaban": "BAJAJ"
+  },
+  {
+    "index": 128,
+    "soal": "Giant, Animal, Lizard, Indonesia",
+    "jawaban": "KOMODO DRAGON"
+  },
+  {
+    "index": 129,
+    "soal": "Land transportation, Wheels, Wood, Horses",
+    "jawaban": "ANDONG"
+  },
+  {
+    "index": 131,
+    "soal": "Vehicles, Transportation, Land, Asphalt",
+    "jawaban": "ROAD"
+  },
+  {
+    "index": 130,
+    "soal": "School, Board, Writing, White",
+    "jawaban": "CHALK"
+  },
+  {
+    "index": 132,
+    "soal": "Electronics, Box, Frequency, Sound",
+    "jawaban": "RADIO"
+  },
+  {
+    "index": 133,
+    "soal": "Clay, Objects, Roofs, Houses",
+    "jawaban": "ROOFTILE"
+  },
+  {
+    "index": 134,
+    "soal": "CHALK",
+    "jawaban": "BAT"
+  },
+  {
+    "index": 136,
+    "soal": "Grainy, Gritty, Sweet",
+    "jawaban": "SUGAR"
+  },
+  {
+    "index": 135,
+    "soal": "Triangle, Egypt, Pharaoh",
+    "jawaban": "PYRAMID"
+  },
+  {
+    "index": 138,
+    "soal": "Rice, Granules, Dry, Grain",
+    "jawaban": "RICE"
+  },
+  {
+    "index": 137,
+    "soal": "Musical Instruments, Sundanese, Bamboo, Sound",
+    "jawaban": "ANGKLUNG"
+  },
+  {
+    "index": 139,
+    "soal": "House, Tribe, Mountains, Sulawesi",
+    "jawaban": "TORAJA"
+  },
+  {
+    "index": 140,
+    "soal": "Transport, Water, Wood, Paddles",
+    "jawaban": "BOAT"
+  },
+  {
+    "index": 141,
+    "soal": "Morning, Mountains, View, Cold",
+    "jawaban": "BOAT"
+  },
+  {
+    "index": 143,
+    "soal": "Grass, Beard, Horns, Sate",
+    "jawaban": "GOAT"
+  },
+  {
+    "index": 142,
+    "soal": "Base, Feet, Strap",
+    "jawaban": "SHOE"
+  },
+  {
+    "index": 144,
+    "soal": "Cooking, Liquid, slippery, Fried",
+    "jawaban": "OIL"
+  },
+  {
+    "index": 145,
+    "soal": "Round, Throw, Kick",
+    "jawaban": "BALL"
+  },
+  {
+    "index": 147,
+    "soal": "Numbers, Small, Count, Tools",
+    "jawaban": "CALCULATOR"
+  },
+  {
+    "index": 146,
+    "soal": "Two Wheels, Feet, Pedal, Sports",
+    "jawaban": "BICYCLE"
+  },
+  {
+    "index": 150,
+    "soal": "Entertaining, Sule, Laughing",
+    "jawaban": "COMEDIAN"
+  },
+  {
+    "index": 148,
+    "soal": "Small, Group, Nest, Animal",
+    "jawaban": "ANT"
+  },
+  {
+    "index": 149,
+    "soal": "Beach, Animals, Invertebrates, Claws",
+    "jawaban": "CRAB"
+  },
+  {
+    "index": 151,
+    "soal": "Wipe, Cloth, Dry, Shower",
+    "jawaban": "TOWEL"
+  },
+  {
+    "index": 152,
+    "soal": "Round, Hole, Flour",
+    "jawaban": "DONUTS"
+  },
+  {
+    "index": 153,
+    "soal": "Eclipse, Light, Night",
+    "jawaban": "MONTH"
+  },
+  {
+    "index": 154,
+    "soal": "Air, Glass, House",
+    "jawaban": "WINDOW"
+  },
+  {
+    "index": 156,
+    "soal": "Animal, Big, Horn",
+    "jawaban": "RHINOCEROS"
+  },
+  {
+    "index": 158,
+    "soal": "Hole, Face, Inhale, Breath",
+    "jawaban": "NOSE"
+  },
+  {
+    "index": 155,
+    "soal": "Containers, Food, Tableware",
+    "jawaban": "PLATE"
+  },
+  {
+    "index": 159,
+    "soal": "Tree, Bottom",
+    "jawaban": "ROOT"
+  },
+  {
+    "index": 160,
+    "soal": "Tools, Eating, Piercing",
+    "jawaban": "FORK"
+  },
+  {
+    "index": 157,
+    "soal": "Building, Place, Residence",
+    "jawaban": "HOUSE"
+  },
+  {
+    "index": 162,
+    "soal": "Part, Back, Animal",
+    "jawaban": "TAIL"
+  },
+  {
+    "index": 161,
+    "soal": "Pit, Water, Bucket",
+    "jawaban": "WELL"
+  },
+  {
+    "index": 163,
+    "soal": "Solar, Earth, Source of Light",
+    "jawaban": "SUN"
+  },
+  {
+    "index": 165,
+    "soal": "Water, Flow, Upstream, Downstream",
+    "jawaban": "RIVER"
+  },
+  {
+    "index": 164,
+    "soal": "Monkey, Rare, Jungle",
+    "jawaban": "ORANGUTAN"
+  },
+  {
+    "index": 168,
+    "soal": "Company, Country, Oil",
+    "jawaban": "PERTAMINA"
+  },
+  {
+    "index": 166,
+    "soal": "Fruit, Moon, Coconut Milk",
+    "jawaban": "COCONUT"
+  },
+  {
+    "index": 167,
+    "soal": "Lizard, Change, Color",
+    "jawaban": "CHAMELEON"
+  },
+  {
+    "index": 169,
+    "soal": "Energy, Radioactive, Uranium",
+    "jawaban": "NUCLEAR"
+  },
+  {
+    "index": 170,
+    "soal": "Science, Properties, Matter",
+    "jawaban": "PHYSICS"
+  },
+  {
+    "index": 171,
+    "soal": "Galaxy, Solar System",
+    "jawaban": "MILKY WAY"
+  },
+  {
+    "index": 173,
+    "soal": "Bird, Rare, Papua",
+    "jawaban": "CENDRAWASIH"
+  },
+  {
+    "index": 172,
+    "soal": "Music, Indonesia, Goyang, Gendang",
+    "jawaban": "DANGDUT"
+  },
+  {
+    "index": 175,
+    "soal": "Cucumber, Sour, Salty",
+    "jawaban": "PICKLES"
+  },
+  {
+    "index": 176,
+    "soal": "Room, Wait, Bus",
+    "jawaban": "STOP"
+  },
+  {
+    "index": 174,
+    "soal": "Iron Bones, Puppet, Flying, Magic",
+    "jawaban": "GLASS GATOT"
+  },
+  {
+    "index": 177,
+    "soal": "Land, Farmers, Rice",
+    "jawaban": "RICEFIELD"
+  },
+  {
+    "index": 178,
+    "soal": "Baby, Pee, Soft",
+    "jawaban": "DIAPER"
+  },
+  {
+    "index": 179,
+    "soal": "Objects, Play, Sit, Chain",
+    "jawaban": "SWING"
+  },
+  {
+    "index": 180,
+    "soal": "Places, Items, Rooms",
+    "jawaban": "WAREHOUSE"
+  },
+  {
+    "index": 183,
+    "soal": "Smoke, Exhaust, Environment",
+    "jawaban": "POLLUTION"
+  },
+  {
+    "index": 181,
+    "soal": "Objects, Places, Stores, Clothes",
+    "jawaban": "CUPBOARD"
+  },
+  {
+    "index": 182,
+    "soal": "Black, White, Rain, Drift",
+    "jawaban": "CLOUD"
+  },
+  {
+    "index": 184,
+    "soal": "Rice, Sugar, Vegetables",
+    "jawaban": "FOOD SUPPLIES"
+  },
+  {
+    "index": 185,
+    "soal": "Vegetable Oil, Coconut Milk, Plants",
+    "jawaban": "COCONUT"
+  },
+  {
+    "index": 186,
+    "soal": "Vehicle, Pedal, Wheel, Three",
+    "jawaban": "PEDICAB"
+  },
+  {
+    "index": 187,
+    "soal": "House Guard, Iron, Roadside",
+    "jawaban": "Salty, White, Cuisine"
+  },
+  {
+    "index": 188,
+    "soal": "Tools, Dust, Clean",
+    "jawaban": "DUSTER"
+  },
+  {
+    "index": 189,
+    "soal": "Objects, Butts, Trash",
+    "jawaban": "ASHTRAY"
+  },
+  {
+    "index": 190,
+    "soal": "Place, Up/Down, Floor",
+    "jawaban": "ELEVATOR"
+  },
+  {
+    "index": 192,
+    "soal": "Salty, White, Cuisine",
+    "jawaban": "SALT"
+  },
+  {
+    "index": 191,
+    "soal": "Object, Standing, Long",
+    "jawaban": "White, Blue, Guard"
+  },
+  {
+    "index": 193,
+    "soal": "Explosive, Hot, Beautiful, Light",
+    "jawaban": "FIREWORK"
+  },
+  {
+    "index": 194,
+    "soal": "Event, Inauguration, Couple",
+    "jawaban": "Transport, Tricycle, Wood, Horses"
+  },
+  {
+    "index": 195,
+    "soal": "White, Blue, Guard",
+    "jawaban": "SECURITY GUARD"
+  },
+  {
+    "index": 196,
+    "soal": "West East North South",
+    "jawaban": "COMPASS"
+  },
+  {
+    "index": 197,
+    "soal": "Places, Trains, Tickets",
+    "jawaban": "STATION"
+  },
+  {
+    "index": 198,
+    "soal": "Transport, Tricycle, Wood, Horses",
+    "jawaban": "DELMAN"
+  },
+  {
+    "index": 199,
+    "soal": "Bread, Strawberry, Liquid",
+    "jawaban": "JAM"
+  },
+  {
+    "index": 200,
+    "soal": "Pet, Cute, Fangs, Bells",
+    "jawaban": "CAT"
+  },
+  {
+    "index": 201,
+    "soal": "Tube, Water, Glass",
+    "jawaban": "GLASS"
+  },
+  {
+    "index": 202,
+    "soal": "Excavations, Objects, Ancient",
+    "jawaban": "ARCHEOLOGY"
+  },
+  {
+    "index": 203,
+    "soal": "Ears, Instruments, Music, Sounds",
+    "jawaban": "EARPHONES"
+  },
+  {
+    "index": 206,
+    "soal": "Pointy, Mouth, Food, Tearing",
+    "jawaban": "TANG"
+  },
+  {
+    "index": 205,
+    "soal": "History, Tourism, Yogya",
+    "jawaban": "BOROBUDUR"
+  },
+  {
+    "index": 204,
+    "soal": "Sit, Relax, Wood, Feet",
+    "jawaban": "EARPHONES"
+  },
+  {
+    "index": 207,
+    "soal": "Ripple, Roll, Water, Beach",
+    "jawaban": "WAVE"
+  },
+  {
+    "index": 209,
+    "soal": "Animals, Rare, Forest, Kalimantan",
+    "jawaban": "ORANGUTAN"
+  },
+  {
+    "index": 210,
+    "soal": "Tools, Music, Doremi, Box",
+    "jawaban": "PIANO"
+  },
+  {
+    "index": 208,
+    "soal": "Air, Moving, Cool",
+    "jawaban": "WIND"
+  },
+  {
+    "index": 211,
+    "soal": "Container, Water, Toilet, Large",
+    "jawaban": "BUCKET"
+  },
+  {
+    "index": 213,
+    "soal": "Hair, Neat, Meeting, Tools",
+    "jawaban": "COMB"
+  },
+  {
+    "index": 212,
+    "soal": "Fruit, Orange, Round",
+    "jawaban": "ORANGE"
+  },
+  {
+    "index": 214,
+    "soal": "Box, Sleep, Soft",
+    "jawaban": "MATTRESS"
+  },
+  {
+    "index": 215,
+    "soal": "Air, Tires, Up/Down",
+    "jawaban": "PUMP"
+  },
+  {
+    "index": 216,
+    "soal": "Duster, Feet, Cloth",
+    "jawaban": "NEEDLE"
+  },
+  {
+    "index": 217,
+    "soal": "Duster, Feet, Cloth",
+    "jawaban": "MAT"
+  },
+  {
+    "index": 219,
+    "soal": "Honey, Animals, Fly",
+    "jawaban": "BEE"
+  },
+  {
+    "index": 218,
+    "soal": "Tv, Device, Remote, Broadcast",
+    "jawaban": "REMOTE"
+  },
+  {
+    "index": 220,
+    "soal": "Animals, Walls, Creeps, Stickers",
+    "jawaban": "HOUSE LIZARD"
+  },
+  {
+    "index": 222,
+    "soal": "Length, Electricity, Pln",
+    "jawaban": "CABLE"
+  },
+  {
+    "index": 221,
+    "soal": "Tools, Strings, Sounds, Music",
+    "jawaban": "Fire, Wood, Small"
+  },
+  {
+    "index": 223,
+    "soal": "Tool, Eat, Sharp",
+    "jawaban": "FORK"
+  },
+  {
+    "index": 224,
+    "soal": "Tools, Cut, Kitchen",
+    "jawaban": "KNIFE"
+  },
+  {
+    "index": 225,
+    "soal": "Fire, Wood, Small",
+    "jawaban": "Medicine, Occupation, Traditional"
+  },
+  {
+    "index": 227,
+    "soal": "Send, Goods, Jobs",
+    "jawaban": "COURIER"
+  },
+  {
+    "index": 226,
+    "soal": "Work, Planes, Riding",
+    "jawaban": "PILOT"
+  },
+  {
+    "index": 228,
+    "soal": "Work, Count, Shop, Shop",
+    "jawaban": "CASHIER"
+  },
+  {
+    "index": 229,
+    "soal": "Medicine, Occupation, Traditional",
+    "jawaban": "PHYSICIAN"
+  },
+  {
+    "index": 231,
+    "soal": "Trees, Valleys, Hills, Dense",
+    "jawaban": "FOREST"
+  },
+  {
+    "index": 230,
+    "soal": "Work, Riding, Delman",
+    "jawaban": "Charioteer"
+  },
+  {
+    "index": 232,
+    "soal": "Children, Toys, Funny",
+    "jawaban": "DOLL"
+  },
+  {
+    "index": 233,
+    "soal": "Neck, Jewelry, Gold",
+    "jawaban": "NECKLACE"
+  },
+  {
+    "index": 235,
+    "soal": "Broadcast, Signal, Tv, Device",
+    "jawaban": "ANTENNA"
+  },
+  {
+    "index": 234,
+    "soal": "Transport, Length, Rail",
+    "jawaban": "TRAIN"
+  },
+  {
+    "index": 236,
+    "soal": "Charioteer",
+    "jawaban": "PARKING AREA"
+  },
+  {
+    "index": 237,
+    "soal": "Blow, Sound, Tool",
+    "jawaban": "TRUMPET"
+  },
+  {
+    "index": 238,
+    "soal": "Fruit, Round, Water, Seeds",
+    "jawaban": "WATERMELON"
+  },
+  {
+    "index": 240,
+    "soal": "Spooky, Lonely, Place, Dead",
+    "jawaban": "GRAVE"
+  },
+  {
+    "index": 241,
+    "soal": "Planes, Tickets, Flights",
+    "jawaban": "AIRPORT"
+  },
+  {
+    "index": 239,
+    "soal": "Place, Teacher, Student, Study",
+    "jawaban": "AIRPORT"
+  },
+  {
+    "index": 242,
+    "soal": "Stripes, Weapons, War",
+    "jawaban": "SOLDIER"
+  },
+  {
+    "index": 243,
+    "soal": "Sharp, Wooden, Cut",
+    "jawaban": "SAW"
+  },
+  {
+    "index": 244,
+    "soal": "GRAVE",
+    "jawaban": "GERANATE"
+  },
+  {
+    "index": 245,
+    "soal": "Box, Computer, Screen, Resolution",
+    "jawaban": "MONITORS"
+  },
+  {
+    "index": 246,
+    "soal": "Box, Glass, House, Front",
+    "jawaban": "WINDOW"
+  },
+  {
+    "index": 247,
+    "soal": "Rice Fields, Farmers, Land, Tools",
+    "jawaban": "HOE"
+  },
+  {
+    "index": 250,
+    "soal": "Sound, Cat, Object, Neck",
+    "jawaban": "BELL"
+  },
+  {
+    "index": 249,
+    "soal": "Animal, Neck, High, Brown",
+    "jawaban": "GIRAFFE"
+  },
+  {
+    "index": 248,
+    "soal": "Push, Tradesman, Tool, Wheel",
+    "jawaban": "CART"
+  },
+  {
+    "index": 252,
+    "soal": "Animal, Carrot, Jump",
+    "jawaban": "RABBIT"
+  },
+  {
+    "index": 251,
+    "soal": "Sharp, Paper, Cut, Tool",
+    "jawaban": "SCISSORS"
+  },
+  {
+    "index": 253,
+    "soal": "Work, Place, Employee",
+    "jawaban": "OFFICE"
+  },
+  {
+    "index": 254,
+    "soal": "Place, Medicine, Selling, Mixing",
+    "jawaban": "PHARMACY"
+  },
+  {
+    "index": 255,
+    "soal": "Hospital, Caring, Work",
+    "jawaban": "NURSE"
+  },
+  {
+    "index": 256,
+    "soal": "Nurturing, Women, Security",
+    "jawaban": "POLICEWOMAN"
+  },
+  {
+    "index": 258,
+    "soal": "Sharp, Warrior, Weapon",
+    "jawaban": "SWORD"
+  },
+  {
+    "index": 257,
+    "soal": "Injection, Medicine, Check, Job",
+    "jawaban": "DOCTOR"
+  },
+  {
+    "index": 259,
+    "soal": "Light, Night, Tools, Battery",
+    "jawaban": "PLATE"
+  },
+  {
+    "index": 260,
+    "soal": "Pedestal, Food, Round, Glass",
+    "jawaban": "PLATE"
+  },
+  {
+    "index": 261,
+    "soal": "Planing, Wood, Writing, Tools",
+    "jawaban": "PENCIL"
+  },
+  {
+    "index": 263,
+    "soal": "Crabs, Pests of Rice Fields, Fresh Water",
+    "jawaban": "CRAB"
+  },
+  {
+    "index": 262,
+    "soal": "Base, Feet, Rubber",
+    "jawaban": "SLIPPERS"
+  },
+  {
+    "index": 264,
+    "soal": "Bird, Black, Mimic",
+    "jawaban": "BEO"
+  },
+  {
+    "index": 265,
+    "soal": "Wavy, Legs, Long, Large",
+    "jawaban": "TURKEY"
+  },
+  {
+    "index": 268,
+    "soal": "Claws, Red, Legs 10",
+    "jawaban": "ACCOUNTANT"
+  },
+  {
+    "index": 266,
+    "soal": "Wavy, Legs, Long, Large",
+    "jawaban": "TURKEY"
+  },
+  {
+    "index": 267,
+    "soal": "Technology, Designing, Work",
+    "jawaban": "ENGINEER"
+  },
+  {
+    "index": 269,
+    "soal": "Mercedes Benz, Berlin Wall, Nazis",
+    "jawaban": "GERMAN"
+  },
+  {
+    "index": 272,
+    "soal": "Arched Back, Consumed, Sea Animal",
+    "jawaban": "SHRIMP"
+  },
+  {
+    "index": 270,
+    "soal": "Ship, Captain, Officer",
+    "jawaban": "SKIPPER"
+  },
+  {
+    "index": 271,
+    "soal": "Gwyneth Paltrow, Paul Bettany, Johnny Depp",
+    "jawaban": "MORTDECAI"
+  },
+  {
+    "index": 273,
+    "soal": "Editor, News, Manuscript",
+    "jawaban": "EDITOR"
+  },
+  {
+    "index": 275,
+    "soal": "Knowledgeable, Teacher, School",
+    "jawaban": "TEACHER"
+  },
+  {
+    "index": 274,
+    "soal": "Red Meat, Swimmer, Reliable, Fish",
+    "jawaban": "TUNA"
+  },
+  {
+    "index": 276,
+    "soal": "Jobs, Demonstrators, Products",
+    "jawaban": "MODEL"
+  },
+  {
+    "index": 277,
+    "soal": "Assistance, Legal, Defendant",
+    "jawaban": "Black, Marine, Thorny"
+  },
+  {
+    "index": 278,
+    "soal": "Long Neck, Duck, White",
+    "jawaban": "SWAN"
+  },
+  {
+    "index": 279,
+    "soal": "Mollusca, Slow, Snail",
+    "jawaban": "SNAIL"
+  },
+  {
+    "index": 282,
+    "soal": "Black, Marine, Thorny",
+    "jawaban": "People, Illness, Healing"
+  },
+  {
+    "index": 283,
+    "soal": "Grain, Water, Sky",
+    "jawaban": "RAIN"
+  },
+  {
+    "index": 281,
+    "soal": "Centipedes, Nocturnal, Poisonous",
+    "jawaban": "CENTIPIE"
+  },
+  {
+    "index": 280,
+    "soal": "Regency, Civil Servant, Leader",
+    "jawaban": "REGENT"
+  },
+  {
+    "index": 284,
+    "soal": "Keyboard, Monitor, Wifi",
+    "jawaban": "LAPTOP"
+  },
+  {
+    "index": 285,
+    "soal": "People, Illness, Healing",
+    "jawaban": "DOCTOR"
+  },
+  {
+    "index": 286,
+    "soal": "Fruit, Green, Red",
+    "jawaban": "WATERMELON"
+  },
+  {
+    "index": 287,
+    "soal": "Badminton",
+    "jawaban": "BADMINTON"
+  },
+  {
+    "index": 288,
+    "soal": "DOCTOR",
+    "jawaban": "PYRAMID"
+  },
+  {
+    "index": 292,
+    "soal": "Ocean, Largest, World",
+    "jawaban": "PACIFIC"
+  },
+  {
+    "index": 290,
+    "soal": "Sanskrit, State Ideology",
+    "jawaban": "PANCASILA"
+  },
+  {
+    "index": 289,
+    "soal": "Temple, Majestic, Buddha",
+    "jawaban": "BOROBUDUR"
+  },
+  {
+    "index": 291,
+    "soal": "Mountain, Java, Highest",
+    "jawaban": "SEMERU"
+  },
+  {
+    "index": 293,
+    "soal": "Bird, Coat of Arms, Country",
+    "jawaban": "GARUDA"
+  },
+  {
+    "index": 294,
+    "soal": "Objects, Roofs, Houses",
+    "jawaban": "ROOFTILE"
+  },
+  {
+    "index": 296,
+    "soal": "Excavations, Objects, Ancient",
+    "jawaban": "ARCHEOLOGY"
+  },
+  {
+    "index": 295,
+    "soal": "Mountain, Highest, World",
+    "jawaban": "EVEREST"
+  },
+  {
+    "index": 297,
+    "soal": "Ape, Nose, Big",
+    "jawaban": "Proboscis Monkey"
+  },
+  {
+    "index": 298,
+    "soal": "Port, Airplane, Fly",
+    "jawaban": "AIRPORT"
+  },
+  {
+    "index": 299,
+    "soal": "Animal, Neck, Length",
+    "jawaban": "GIRAFFE"
+  },
+  {
+    "index": 301,
+    "soal": "Fruit, Skin, Thorns",
+    "jawaban": "DURIAN"
+  },
+  {
+    "index": 300,
+    "soal": "Pool, Large, Artificial",
+    "jawaban": "GIRAFFE"
+  }
+]
