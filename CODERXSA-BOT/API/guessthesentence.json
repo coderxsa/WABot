@@ -1,0 +1,517 @@
+[
+  {
+    "index": 7,
+    "soal": "There are... there are ants",
+    "jawaban": "sugar"
+  },
+  {
+    "index": 6,
+    "soal": "There are... there are ants",
+    "jawaban": "rock"
+  },
+  {
+    "index": 0,
+    "soal": "Life is conceived... death is conceived in the earth",
+    "jawaban": "chicken"
+  },
+  {
+    "index": 5,
+    "soal": "There are shrimps behind...",
+    "jawaban": "Budi"
+  },
+  {
+    "index": 4,
+    "soal": "There are... there are ants",
+    "jawaban": "root"
+  },
+  {
+    "index": 2,
+    "soal": "Far away, close to heart",
+    "jawaban": "custom"
+  },
+  {
+    "index": 1,
+    "soal": "There's no rattan... that's fine",
+    "jawaban": "leaf"
+  },
+  {
+    "index": 3,
+    "soal": "Gold debt can be paid, Debt... taken to death",
+    "jawaban": "eye"
+  },
+  {
+    "index": 9,
+    "soal": "Like... and the sky",
+    "jawaban": "earth"
+  },
+  {
+    "index": 8,
+    "soal": "There's... there's a fire",
+    "jawaban": "smoke"
+  },
+  {
+    "index": 12,
+    "soal": "... hole cover hole",
+    "jawaban": "Dig"
+  },
+  {
+    "index": 10,
+    "soal": "Rather than rain in someone else's country, it's better to rain stones in your own country",
+    "jawaban": "gold"
+  },
+  {
+    "index": 14,
+    "soal": "Be thrifty, diligent and clever",
+    "jawaban": "rich"
+  },
+  {
+    "index": 11,
+    "soal": "Given... asked for a heart",
+    "jawaban": "heart"
+  },
+  {
+    "index": 15,
+    "soal": "... asking astray on the road",
+    "jawaban": "Embarrassed"
+  },
+  {
+    "index": 13,
+    "soal": "Warm warm... chicken",
+    "jawaban": "shit"
+  },
+  {
+    "index": 16,
+    "soal": "... has become mush",
+    "jawaban": "Rice"
+  },
+  {
+    "index": 17,
+    "soal": "The shoot of being loved... has arrived",
+    "jawaban": "side dish"
+  },
+  {
+    "index": 18,
+    "soal": "Like science... the more you contain the more you bend",
+    "jawaban": "paddy"
+  },
+  {
+    "index": 20,
+    "soal": "Weapons...",
+    "jawaban": "Sir"
+  },
+  {
+    "index": 21,
+    "soal": "No ivory... no cracks",
+    "jawaban": "Which"
+  },
+  {
+    "index": 23,
+    "soal": "Demand... even to China",
+    "jawaban": "knowledge"
+  },
+  {
+    "index": 19,
+    "soal": "Tong... the sound is loud",
+    "jawaban": "blank"
+  },
+  {
+    "index": 22,
+    "soal": "There is no rattan, not even roots...",
+    "jawaban": "So"
+  },
+  {
+    "index": 24,
+    "soal": "There's nothing... there are roots",
+    "jawaban": "rattan"
+  },
+  {
+    "index": 25,
+    "soal": "Big... than a pole",
+    "jawaban": "bolt"
+  },
+  {
+    "index": 28,
+    "soal": "Destroyed... contained in the land, good deeds are remembered too",
+    "jawaban": "body"
+  },
+  {
+    "index": 27,
+    "soal": "As clever as you are... jump, sometimes you fall too",
+    "jawaban": "squirrel"
+  },
+  {
+    "index": 26,
+    "soal": "Deep in the eyes... in the heart",
+    "jawaban": "near"
+  },
+  {
+    "index": 29,
+    "soal": "United we...divided we fall",
+    "jawaban": "firm"
+  },
+  {
+    "index": 30,
+    "soal": "Big pegs than...",
+    "jawaban": "pole"
+  },
+  {
+    "index": 31,
+    "soal": "Gone sweet... thrown away",
+    "jawaban": "sepah"
+  },
+  {
+    "index": 33,
+    "soal": "Live... don't want to/want to die",
+    "jawaban": "disinclined"
+  },
+  {
+    "index": 32,
+    "soal": "Save the rich base,... the clever base",
+    "jawaban": "diligent"
+  },
+  {
+    "index": 34,
+    "soal": "Because a speck of tilapia,... a pot of milk",
+    "jawaban": "damaged"
+  },
+  {
+    "index": 36,
+    "soal": "Lick... yourself",
+    "jawaban": "saliva"
+  },
+  {
+    "index": 37,
+    "soal": "Fishing in the water...",
+    "jawaban": "cloudy"
+  },
+  {
+    "index": 35,
+    "soal": "Another field is another grasshopper, another... another fish",
+    "jawaban": "deep"
+  },
+  {
+    "index": 38,
+    "soal": "... eat plants",
+    "jawaban": "The water ripples as a sign..."
+  },
+  {
+    "index": 39,
+    "soal": "Like a horse... from the edge",
+    "jawaban": "free"
+  },
+  {
+    "index": 40,
+    "soal": "The water ripples as a sign...",
+    "jawaban": "in"
+  },
+  {
+    "index": 42,
+    "soal": "Like water on a leaf...",
+    "jawaban": "Taro"
+  },
+  {
+    "index": 41,
+    "soal": "The cock crowed today...",
+    "jawaban": "Afternoon"
+  },
+  {
+    "index": 43,
+    "soal": "Like... in a shell",
+    "jawaban": "frog"
+  },
+  {
+    "index": 44,
+    "soal": "Where the earth is... there the sky is upheld",
+    "jawaban": "step on"
+  },
+  {
+    "index": 46,
+    "soal": "Small chilies...",
+    "jawaban": "cayenne"
+  },
+  {
+    "index": 45,
+    "soal": "Teacher pee standing, ... pee running",
+    "jawaban": "student"
+  },
+  {
+    "index": 47,
+    "soal": "It's been... crushed by the stairs",
+    "jawaban": "fall"
+  },
+  {
+    "index": 48,
+    "soal": "While diving... water",
+    "jawaban": "drink"
+  },
+  {
+    "index": 50,
+    "soal": "Have an umbrella ready before...",
+    "jawaban": "Rain"
+  },
+  {
+    "index": 49,
+    "soal": "Like a chicken loses...",
+    "jawaban": "parent"
+  },
+  {
+    "index": 51,
+    "soal": "Little by little, over time it becomes...",
+    "jawaban": "Hill"
+  },
+  {
+    "index": 52,
+    "soal": "... died in a rice barn",
+    "jawaban": "Time"
+  },
+  {
+    "index": 54,
+    "soal": "... is money",
+    "jawaban": "Time"
+  },
+  {
+    "index": 53,
+    "soal": "... down blunt up",
+    "jawaban": "Sharp"
+  },
+  {
+    "index": 55,
+    "soal": "The storm...passed",
+    "jawaban": "Certain"
+  },
+  {
+    "index": 56,
+    "soal": "... in a blanket",
+    "jawaban": "Enemy"
+  },
+  {
+    "index": 58,
+    "soal": "Like... in a cage",
+    "jawaban": "bird"
+  },
+  {
+    "index": 57,
+    "soal": "One year old corn, ... a tap of areca nut",
+    "jawaban": "blood"
+  },
+  {
+    "index": 60,
+    "soal": "Water... a sign of no depth",
+    "jawaban": "rippling"
+  },
+  {
+    "index": 62,
+    "soal": "Silence... language",
+    "jawaban": "one thousand"
+  },
+  {
+    "index": 61,
+    "soal": "Like... halved",
+    "jawaban": "goods"
+  },
+  {
+    "index": 59,
+    "soal": "There's money there...",
+    "jawaban": "... hand hiding stone"
+  },
+  {
+    "index": 63,
+    "soal": "Tigers die leaving behind..., elephants die leaving behind tusks",
+    "jawaban": "striped"
+  },
+  {
+    "index": 64,
+    "soal": "... forget about the skin",
+    "jawaban": "Came not picked up... not delivered"
+  },
+  {
+    "index": 65,
+    "soal": "... hidden hand stone",
+    "jawaban": "Throw"
+  },
+  {
+    "index": 66,
+    "soal": "Water... washes away",
+    "jawaban": "calm"
+  },
+  {
+    "index": 67,
+    "soal": "Came not picked up... not delivered",
+    "jawaban": "go home"
+  },
+  {
+    "index": 68,
+    "soal": "From... that which is clear will not flow turbid water",
+    "jawaban": "lake"
+  },
+  {
+    "index": 71,
+    "soal": "... chicken feathers",
+    "jawaban": "Weasel"
+  },
+  {
+    "index": 69,
+    "soal": "... the body was conceived in the land of wisdom and is also well remembered",
+    "jawaban": "Destroyed"
+  },
+  {
+    "index": 70,
+    "soal": "calm",
+    "jawaban": "Throw"
+  },
+  {
+    "index": 72,
+    "soal": "There's nothing... that's not cracked",
+    "jawaban": "ivory"
+  },
+  {
+    "index": 73,
+    "soal": "Older... the older you get, the more you become",
+    "jawaban": "taro"
+  },
+  {
+    "index": 74,
+    "soal": "Same weight... , same light to carry",
+    "jawaban": "carried"
+  },
+  {
+    "index": 75,
+    "soal": "Like... missing the moon",
+    "jawaban": "back"
+  },
+  {
+    "index": 76,
+    "soal": "Milk... with tubal water",
+    "jawaban": "replied"
+  },
+  {
+    "index": 77,
+    "soal": "Like a bird in...",
+    "jawaban": "cage"
+  },
+  {
+    "index": 79,
+    "soal": "Dogs barking caravan...",
+    "jawaban": "passed"
+  },
+  {
+    "index": 80,
+    "soal": "The world doesn't... Moringa leaves",
+    "jawaban": "wide"
+  },
+  {
+    "index": 78,
+    "soal": "Learning too much like a flower... doesn't happen",
+    "jawaban": "flower"
+  },
+  {
+    "index": 82,
+    "soal": "An elephant dies leaving behind tusks, ... dies leaving behind stripes",
+    "jawaban": "tiger"
+  },
+  {
+    "index": 81,
+    "soal": "Elephants in... the eyes are invisible, ants across the sea are visible",
+    "jawaban": "cover"
+  },
+  {
+    "index": 83,
+    "soal": "Patted the water on the tray, splashed on the face...",
+    "jawaban": "Alone"
+  },
+  {
+    "index": 84,
+    "soal": "Like areca nut... two",
+    "jawaban": "split"
+  },
+  {
+    "index": 85,
+    "soal": "Like water in... taro",
+    "jawaban": "leaf"
+  },
+  {
+    "index": 86,
+    "soal": "From bush to...",
+    "jawaban": "thicket"
+  },
+  {
+    "index": 89,
+    "soal": "Far away, close to heart",
+    "jawaban": "eye"
+  },
+  {
+    "index": 88,
+    "soal": "It's finished... it's all thrown away",
+    "jawaban": "sweet"
+  },
+  {
+    "index": 87,
+    "soal": "Instead of living in the mirror..., it's better to die in the dirt",
+    "jawaban": "carcass"
+  },
+  {
+    "index": 91,
+    "soal": "Shame... lost on the road",
+    "jawaban": "ask"
+  },
+  {
+    "index": 90,
+    "soal": "The heart means... the mountain, what can you do if your hands can't reach it?",
+    "jawaban": "hug"
+  },
+  {
+    "index": 92,
+    "soal": "While... drinking water",
+    "jawaban": "dive"
+  },
+  {
+    "index": 93,
+    "soal": "There's my brother's money in... , there's no brother's money floating around",
+    "jawaban": "Darling"
+  },
+  {
+    "index": 94,
+    "soal": "Milk is answered with...",
+    "jawaban": "tubal water"
+  },
+  {
+    "index": 96,
+    "soal": "...  saliva",
+    "jawaban": "Lick"
+  },
+  {
+    "index": 95,
+    "soal": "Nuts forget about...",
+    "jawaban": "the skin"
+  },
+  {
+    "index": 97,
+    "soal": "... hunting/sheepskin",
+    "jawaban": "Wolf"
+  },
+  {
+    "index": 100,
+    "soal": "Don't... in murky water",
+    "jawaban": "look in the mirror"
+  },
+  {
+    "index": 99,
+    "soal": "As long as life is still in the body",
+    "jawaban": "birth"
+  },
+  {
+    "index": 101,
+    "soal": "As long as the yellow coconut leaves haven't..., then I will always chase you to get your love",
+    "jawaban": "curved"
+  },
+  {
+    "index": 98,
+    "soal": "Tongue not ...",
+    "jawaban": "bony"
+  },
+  {
+    "index": 102,
+    "soal": "Like eating... simalakama",
+    "jawaban": "fruit"
+  }
+]
