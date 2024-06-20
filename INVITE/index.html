@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CODERX-Bot | Setup</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>CODERX-BOT | INVITE</h1>
+        <form id="botForm">
+            <div class="form-group">
+                <label for="members">Do you have more than 15 members?</label>
+                <select id="members" required>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="active">Is the group active?</label>
+                <select id="active" required>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="runtime">Bot Runtime 2pm : 10pm South African Time?</label>
+                <select id="runtime" required>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="spam">If you spam, I will remove the bot or ban you from using the bot.</label>
+                <select id="spam" required>
+                    <option value="agree">Agree</option>
+                    <option value="disagree">Disagree</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="activity">If the group is not active, I will leave.</label>
+                <select id="activity" required>
+                    <option value="agree">Agree</option>
+                    <option value="disagree">Disagree</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="admin">Bot must be an admin.</label>
+                <select id="admin" required>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="groupLink">Group Link</label>
+                <input type="text" id="groupLink" placeholder="https://chat.whatsapp.com/ExampleLink" required>
+            </div>
+            <button type="submit">Generate WhatsApp Link</button>
+        </form>
+        <div id="result" class="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
