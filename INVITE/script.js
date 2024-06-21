@@ -9,7 +9,7 @@ document.getElementById('botForm').addEventListener('submit', function(event) {
     const admin = document.getElementById('admin').value;
     const groupLink = document.getElementById('groupLink').value;
 
-    if (members === 'yes' && active === 'yes' && runtime == 'yes' && spam === 'agree' && activity === 'agree' && admin === 'yes' && groupLink) {
+    if (members === 'yes' && active === 'yes' && runtime == 'agree' && spam === 'agree' && activity === 'agree' && admin === 'yes' && groupLink) {
         const message = `
 More than 10 members: ${members}\n
 Is the Group Active: ${active}\n
